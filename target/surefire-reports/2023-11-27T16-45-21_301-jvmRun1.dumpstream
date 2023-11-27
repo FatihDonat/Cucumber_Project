@@ -1,0 +1,3637 @@
+# Created at 2023-11-27T16:45:39.929
+Unexpected IOException with stream: [main] ERROR io.github.bonigarcia.wdm.online.HttpClient - Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_119
+
+
+# Created at 2023-11-27T16:45:39.929
+Unexpected IOException with stream: [main] WARN io.github.bonigarcia.wdm.versions.VersionDetector - Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_119 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_119)
+
+
+# Created at 2023-11-27T16:45:40.165
+Unexpected IOException with stream: [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\fatih\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+
+
+# Created at 2023-11-27T16:45:40.200
+Unexpected IOException with stream: C
+
+# Created at 2023-11-27T16:45:40.200
+Unexpected IOException with stream: h
+
+# Created at 2023-11-27T16:45:40.202
+Unexpected IOException with stream: r
+
+# Created at 2023-11-27T16:45:40.202
+Unexpected IOException with stream: o
+
+# Created at 2023-11-27T16:45:40.202
+Unexpected IOException with stream: m
+
+# Created at 2023-11-27T16:45:40.202
+Unexpected IOException with stream: e
+
+# Created at 2023-11-27T16:45:40.203
+Unexpected IOException with stream: D
+
+# Created at 2023-11-27T16:45:40.203
+Unexpected IOException with stream: r
+
+# Created at 2023-11-27T16:45:40.203
+Unexpected IOException with stream: i
+
+# Created at 2023-11-27T16:45:40.203
+Unexpected IOException with stream: v
+
+# Created at 2023-11-27T16:45:40.204
+Unexpected IOException with stream: e
+
+# Created at 2023-11-27T16:45:40.204
+Unexpected IOException with stream: r
+
+# Created at 2023-11-27T16:45:40.204
+Unexpected IOException with stream:  
+
+# Created at 2023-11-27T16:45:40.204
+Unexpected IOException with stream: w
+
+# Created at 2023-11-27T16:45:40.204
+Unexpected IOException with stream: a
+
+# Created at 2023-11-27T16:45:40.205
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:45:40.205
+Unexpected IOException with stream:  
+
+# Created at 2023-11-27T16:45:40.205
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:45:40.206
+Unexpected IOException with stream: t
+
+# Created at 2023-11-27T16:45:40.206
+Unexpected IOException with stream: a
+
+# Created at 2023-11-27T16:45:40.206
+Unexpected IOException with stream: r
+
+# Created at 2023-11-27T16:45:40.206
+Unexpected IOException with stream: t
+
+# Created at 2023-11-27T16:45:40.207
+Unexpected IOException with stream: e
+
+# Created at 2023-11-27T16:45:40.207
+Unexpected IOException with stream: d
+
+# Created at 2023-11-27T16:45:40.207
+Unexpected IOException with stream:  
+
+# Created at 2023-11-27T16:45:40.207
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:45:40.208
+Unexpected IOException with stream: u
+
+# Created at 2023-11-27T16:45:40.208
+Unexpected IOException with stream: c
+
+# Created at 2023-11-27T16:45:40.208
+Unexpected IOException with stream: c
+
+# Created at 2023-11-27T16:45:40.209
+Unexpected IOException with stream: e
+
+# Created at 2023-11-27T16:45:40.209
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:45:40.209
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:45:40.210
+Unexpected IOException with stream: f
+
+# Created at 2023-11-27T16:45:40.210
+Unexpected IOException with stream: u
+
+# Created at 2023-11-27T16:45:40.210
+Unexpected IOException with stream: l
+
+# Created at 2023-11-27T16:45:40.212
+Unexpected IOException with stream: l
+
+# Created at 2023-11-27T16:45:40.212
+Unexpected IOException with stream: y
+
+# Created at 2023-11-27T16:45:40.212
+Unexpected IOException with stream: .
+
+# Created at 2023-11-27T16:45:40.212
+Unexpected IOException with stream: 
+
+# Created at 2023-11-27T16:45:40.213
+Unexpected IOException with stream: 
+
+
+# Created at 2023-11-27T16:45:41.843
+Unexpected IOException with stream:   [31mGiven [0m[31mNavigate to basqar[0m                                [90m# StepDefinitions._01_LoginSteps.navigateToBasqar()[0m
+      [31mio.cucumber.core.exception.CucumberException: Failed to instantiate class StepDefinitions._01_LoginSteps
+	at io.cucumber.core.backend.DefaultObjectFactory.cacheNewInstance(DefaultObjectFactory.java:67)
+	at io.cucumber.core.backend.DefaultObjectFactory.getInstance(DefaultObjectFactory.java:45)
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47)
+	at io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29)
+	at io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66)
+	at io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:63)
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10)
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:85)
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:57)
+	at io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:51)
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:84)
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:75)
+	at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:132)
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:129)
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23)
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:129)
+	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:129)
+	at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:135)
+	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.executeSingleClass(TestNGDirectoryTestSuite.java:112)
+	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.execute(TestNGDirectoryTestSuite.java:99)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:146)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:384)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:345)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
+Caused by: java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at io.cucumber.core.backend.DefaultObjectFactory.cacheNewInstance(DefaultObjectFactory.java:53)
+	... 46 more
+Caused by: org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 114
+Current browser version is 119.0.6045.160 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'FATIH', ip: '172.20.10.2', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_392'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}], desiredCapabilities=Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}}]
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:144)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:102)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:67)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:156)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:569)
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:264)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:179)
+	at org.openqa.selenium.chromium.ChromiumDriver.<init>(ChromiumDriver.java:101)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:81)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:49)
+	at Utilities.GWD.getDriver(GWD.java:33)
+	at Pages.DialogContent.<init>(DialogContent.java:11)
+	at StepDefinitions._01_LoginSteps.<init>(_01_LoginSteps.java:10)
+	... 51 more
+[0m
+
+
+# Created at 2023-11-27T16:45:41.844
+Unexpected IOException with stream:   [36mWhen [0m[36mEnter username and password and click login button[0m [90m# StepDefinitions._01_LoginSteps.enterUsernameAndPasswordAndClickLoginButton()[0m
+
+
+# Created at 2023-11-27T16:45:41.845
+Unexpected IOException with stream:   [36mThen [0m[36mUser should login successfully[0m                     [90m# StepDefinitions._01_LoginSteps.userShouldLoginSuccessfully()[0m
+
+
+# Created at 2023-11-27T16:45:41.845
+Unexpected IOException with stream:   [36mAnd [0m[36mClick on the element in the Left Nav[0m                [90m# StepDefinitions._05_DatatableSteps.clickOnTheElementInTheLeftNav(io.cucumber.datatable.DataTable)[0m
+    | humanResources |
+    | setupThree     |
+    | positions      |
+
+
+# Created at 2023-11-27T16:45:41.846
+Unexpected IOException with stream:   [36mAnd [0m[36mClick on the element in Dialog Content[0m              [90m# StepDefinitions._05_DatatableSteps.clickOnTheElementInDialogContent(io.cucumber.datatable.DataTable)[0m
+    | addButton |
+
+
+# Created at 2023-11-27T16:45:41.846
+Unexpected IOException with stream:   [36mAnd [0m[36mUser sending the keys in Dialog Content[0m             [90m# StepDefinitions._05_DatatableSteps.userSendingTheKeysInDialogContent(io.cucumber.datatable.DataTable)[0m
+    | nameInput | Emrah   |
+    | shortName | test123 |
+
+
+# Created at 2023-11-27T16:45:41.847
+Unexpected IOException with stream:   [36mAnd [0m[36mClick on the element in Dialog Content[0m              [90m# StepDefinitions._05_DatatableSteps.clickOnTheElementInDialogContent(io.cucumber.datatable.DataTable)[0m
+    | saveButton |
+
+
+# Created at 2023-11-27T16:45:41.847
+Unexpected IOException with stream:   [36mThen [0m[36mSuccess message should be displayed[0m                [90m# StepDefinitions.messageAssert.successMessageShouldBeDisplayed()[0m
+
+
+# Created at 2023-11-27T16:45:41.848
+Unexpected IOException with stream: Senaryo Bitti
+
+
+# Created at 2023-11-27T16:45:41.848
+Unexpected IOException with stream: scenario sonucu=FAILED
+
+
+# Created at 2023-11-27T16:45:41.848
+Unexpected IOException with stream: scenario isFailed ?=true
+
+
+# Created at 2023-11-27T16:45:42.480
+Unexpected IOException with stream: [main] ERROR io.github.bonigarcia.wdm.online.HttpClient - Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_119
+
+
+# Created at 2023-11-27T16:45:42.481
+Unexpected IOException with stream: [main] WARN io.github.bonigarcia.wdm.versions.VersionDetector - Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_119 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_119)
+
+
+# Created at 2023-11-27T16:45:42.717
+Unexpected IOException with stream: [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\fatih\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+
+
+# Created at 2023-11-27T16:45:42.751
+Unexpected IOException with stream: C
+
+# Created at 2023-11-27T16:45:42.752
+Unexpected IOException with stream: h
+
+# Created at 2023-11-27T16:45:42.752
+Unexpected IOException with stream: r
+
+# Created at 2023-11-27T16:45:42.752
+Unexpected IOException with stream: o
+
+# Created at 2023-11-27T16:45:42.752
+Unexpected IOException with stream: m
+
+# Created at 2023-11-27T16:45:42.754
+Unexpected IOException with stream: e
+
+# Created at 2023-11-27T16:45:42.754
+Unexpected IOException with stream: D
+
+# Created at 2023-11-27T16:45:42.754
+Unexpected IOException with stream: r
+
+# Created at 2023-11-27T16:45:42.754
+Unexpected IOException with stream: i
+
+# Created at 2023-11-27T16:45:42.755
+Unexpected IOException with stream: v
+
+# Created at 2023-11-27T16:45:42.755
+Unexpected IOException with stream: e
+
+# Created at 2023-11-27T16:45:42.755
+Unexpected IOException with stream: r
+
+# Created at 2023-11-27T16:45:42.755
+Unexpected IOException with stream:  
+
+# Created at 2023-11-27T16:45:42.755
+Unexpected IOException with stream: w
+
+# Created at 2023-11-27T16:45:42.756
+Unexpected IOException with stream: a
+
+# Created at 2023-11-27T16:45:42.756
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:45:42.756
+Unexpected IOException with stream:  
+
+# Created at 2023-11-27T16:45:42.756
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:45:42.757
+Unexpected IOException with stream: t
+
+# Created at 2023-11-27T16:45:42.757
+Unexpected IOException with stream: a
+
+# Created at 2023-11-27T16:45:42.757
+Unexpected IOException with stream: r
+
+# Created at 2023-11-27T16:45:42.757
+Unexpected IOException with stream: t
+
+# Created at 2023-11-27T16:45:42.757
+Unexpected IOException with stream: e
+
+# Created at 2023-11-27T16:45:42.759
+Unexpected IOException with stream: d
+
+# Created at 2023-11-27T16:45:42.759
+Unexpected IOException with stream:  
+
+# Created at 2023-11-27T16:45:42.759
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:45:42.760
+Unexpected IOException with stream: u
+
+# Created at 2023-11-27T16:45:42.760
+Unexpected IOException with stream: c
+
+# Created at 2023-11-27T16:45:42.760
+Unexpected IOException with stream: c
+
+# Created at 2023-11-27T16:45:42.761
+Unexpected IOException with stream: e
+
+# Created at 2023-11-27T16:45:42.761
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:45:42.761
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:45:42.761
+Unexpected IOException with stream: f
+
+# Created at 2023-11-27T16:45:42.761
+Unexpected IOException with stream: u
+
+# Created at 2023-11-27T16:45:42.762
+Unexpected IOException with stream: l
+
+# Created at 2023-11-27T16:45:42.762
+Unexpected IOException with stream: l
+
+# Created at 2023-11-27T16:45:42.762
+Unexpected IOException with stream: y
+
+# Created at 2023-11-27T16:45:42.763
+Unexpected IOException with stream: .
+
+# Created at 2023-11-27T16:45:42.763
+Unexpected IOException with stream: 
+
+# Created at 2023-11-27T16:45:42.763
+Unexpected IOException with stream: 
+
+
+# Created at 2023-11-27T16:45:44.404
+Unexpected IOException with stream:       [31morg.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 114
+Current browser version is 119.0.6045.160 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'FATIH', ip: '172.20.10.2', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_392'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}], desiredCapabilities=Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}}]
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:144)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:102)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:67)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:156)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:569)
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:264)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:179)
+	at org.openqa.selenium.chromium.ChromiumDriver.<init>(ChromiumDriver.java:101)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:81)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:49)
+	at Utilities.GWD.getDriver(GWD.java:33)
+	at StepDefinitions.Hooks.after(Hooks.java:40)
+[0m
+
+
+# Created at 2023-11-27T16:45:44.405
+Unexpected IOException: 8,1,Runners.TestRunner_MasterReport,runScenario(Runners.TestRunner_MasterReport),null,Failed to instantiate class StepDefinitions._01_LoginSteps,null,Failed to instantiate class StepDefinitions._01_LoginSteps,TestRunner_MasterReport>AbstractTestNGCucumberTests.runScenario:35 \00BB Cucumber ...,io.cucumber.core.exception.CucumberException: Failed to instantiate class StepDefinitions._01_LoginSteps\000ACaused by: java.lang.reflect.InvocationTargetException\000ACaused by: org.openqa.selenium.SessionNotCreatedException: \000ACould not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 114\000ACurrent browser version is 119.0.6045.160 with binary path C:\005CProgram Files\005CGoogle\005CChrome\005CApplication\005Cchrome.exe\000ABuild info: version: '4.3.0'\002C revision: 'a4995e2c09*'\000ASystem info: host: 'FATIH'\002C ip: '172.20.10.2'\002C os.name: 'Windows 11'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_392'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACommand: [null\002C newSession {capabilities=[Capabilities {browserName: chrome\002C goog:chromeOptions: {args: []\002C extensions: []}}]\002C desiredCapabilities=Capabilities {browserName: chrome\002C goog:chromeOptions: {args: []\002C extensions: []}}}]\000A
+
+
+# Created at 2023-11-27T16:45:44.406
+Unexpected IOException: 5,1,Runners.TestRunner_MasterReport,runScenario(Runners.TestRunner_MasterReport),cucumber,null,null
+
+
+# Created at 2023-11-27T16:45:44.410
+Unexpected IOException with stream: 
+Scenario: Edit Exist Position                             [90m# src/test/java/FeatureFiles/_02_Positions.feature:26[0m
+
+
+# Created at 2023-11-27T16:45:44.410
+Unexpected IOException with stream: Senaryo ba?lad?
+
+
+# Created at 2023-11-27T16:45:45.034
+Unexpected IOException with stream: [main] ERROR io.github.bonigarcia.wdm.online.HttpClient - Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_119
+
+
+# Created at 2023-11-27T16:45:45.034
+Unexpected IOException with stream: [main] WARN io.github.bonigarcia.wdm.versions.VersionDetector - Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_119 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_119)
+
+
+# Created at 2023-11-27T16:45:45.298
+Unexpected IOException with stream: [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\fatih\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+
+
+# Created at 2023-11-27T16:45:45.334
+Unexpected IOException with stream: C
+
+# Created at 2023-11-27T16:45:45.334
+Unexpected IOException with stream: h
+
+# Created at 2023-11-27T16:45:45.334
+Unexpected IOException with stream: r
+
+# Created at 2023-11-27T16:45:45.334
+Unexpected IOException with stream: o
+
+# Created at 2023-11-27T16:45:45.336
+Unexpected IOException with stream: m
+
+# Created at 2023-11-27T16:45:45.336
+Unexpected IOException with stream: e
+
+# Created at 2023-11-27T16:45:45.336
+Unexpected IOException with stream: D
+
+# Created at 2023-11-27T16:45:45.336
+Unexpected IOException with stream: r
+
+# Created at 2023-11-27T16:45:45.337
+Unexpected IOException with stream: i
+
+# Created at 2023-11-27T16:45:45.337
+Unexpected IOException with stream: v
+
+# Created at 2023-11-27T16:45:45.337
+Unexpected IOException with stream: e
+
+# Created at 2023-11-27T16:45:45.337
+Unexpected IOException with stream: r
+
+# Created at 2023-11-27T16:45:45.338
+Unexpected IOException with stream:  
+
+# Created at 2023-11-27T16:45:45.338
+Unexpected IOException with stream: w
+
+# Created at 2023-11-27T16:45:45.338
+Unexpected IOException with stream: a
+
+# Created at 2023-11-27T16:45:45.338
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:45:45.338
+Unexpected IOException with stream:  
+
+# Created at 2023-11-27T16:45:45.340
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:45:45.340
+Unexpected IOException with stream: t
+
+# Created at 2023-11-27T16:45:45.340
+Unexpected IOException with stream: a
+
+# Created at 2023-11-27T16:45:45.340
+Unexpected IOException with stream: r
+
+# Created at 2023-11-27T16:45:45.340
+Unexpected IOException with stream: t
+
+# Created at 2023-11-27T16:45:45.340
+Unexpected IOException with stream: e
+
+# Created at 2023-11-27T16:45:45.341
+Unexpected IOException with stream: d
+
+# Created at 2023-11-27T16:45:45.341
+Unexpected IOException with stream:  
+
+# Created at 2023-11-27T16:45:45.341
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:45:45.341
+Unexpected IOException with stream: u
+
+# Created at 2023-11-27T16:45:45.343
+Unexpected IOException with stream: c
+
+# Created at 2023-11-27T16:45:45.343
+Unexpected IOException with stream: c
+
+# Created at 2023-11-27T16:45:45.343
+Unexpected IOException with stream: e
+
+# Created at 2023-11-27T16:45:45.343
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:45:45.343
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:45:45.344
+Unexpected IOException with stream: f
+
+# Created at 2023-11-27T16:45:45.344
+Unexpected IOException with stream: u
+
+# Created at 2023-11-27T16:45:45.344
+Unexpected IOException with stream: l
+
+# Created at 2023-11-27T16:45:45.345
+Unexpected IOException with stream: l
+
+# Created at 2023-11-27T16:45:45.345
+Unexpected IOException with stream: y
+
+# Created at 2023-11-27T16:45:45.345
+Unexpected IOException with stream: .
+
+# Created at 2023-11-27T16:45:45.345
+Unexpected IOException with stream: 
+
+# Created at 2023-11-27T16:45:45.345
+Unexpected IOException with stream: 
+
+
+# Created at 2023-11-27T16:45:46.983
+Unexpected IOException with stream:   [31mGiven [0m[31mNavigate to basqar[0m                                [90m# StepDefinitions._01_LoginSteps.navigateToBasqar()[0m
+      [31mio.cucumber.core.exception.CucumberException: Failed to instantiate class StepDefinitions._01_LoginSteps
+	at io.cucumber.core.backend.DefaultObjectFactory.cacheNewInstance(DefaultObjectFactory.java:67)
+	at io.cucumber.core.backend.DefaultObjectFactory.getInstance(DefaultObjectFactory.java:45)
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47)
+	at io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29)
+	at io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66)
+	at io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:63)
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10)
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:85)
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:57)
+	at io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:51)
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:84)
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:75)
+	at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:132)
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:129)
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23)
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:129)
+	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:129)
+	at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:135)
+	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.executeSingleClass(TestNGDirectoryTestSuite.java:112)
+	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.execute(TestNGDirectoryTestSuite.java:99)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:146)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:384)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:345)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
+Caused by: java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at io.cucumber.core.backend.DefaultObjectFactory.cacheNewInstance(DefaultObjectFactory.java:53)
+	... 46 more
+Caused by: org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 114
+Current browser version is 119.0.6045.160 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'FATIH', ip: '172.20.10.2', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_392'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}], desiredCapabilities=Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}}]
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:144)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:102)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:67)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:156)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:569)
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:264)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:179)
+	at org.openqa.selenium.chromium.ChromiumDriver.<init>(ChromiumDriver.java:101)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:81)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:49)
+	at Utilities.GWD.getDriver(GWD.java:33)
+	at Pages.DialogContent.<init>(DialogContent.java:11)
+	at StepDefinitions._01_LoginSteps.<init>(_01_LoginSteps.java:10)
+	... 51 more
+[0m
+
+
+# Created at 2023-11-27T16:45:46.984
+Unexpected IOException with stream:   [36mWhen [0m[36mEnter username and password and click login button[0m [90m# StepDefinitions._01_LoginSteps.enterUsernameAndPasswordAndClickLoginButton()[0m
+
+
+# Created at 2023-11-27T16:45:46.984
+Unexpected IOException with stream:   [36mThen [0m[36mUser should login successfully[0m                     [90m# StepDefinitions._01_LoginSteps.userShouldLoginSuccessfully()[0m
+
+
+# Created at 2023-11-27T16:45:46.985
+Unexpected IOException with stream:   [36mAnd [0m[36mClick on the element in the Left Nav[0m                [90m# StepDefinitions._05_DatatableSteps.clickOnTheElementInTheLeftNav(io.cucumber.datatable.DataTable)[0m
+    | humanResources |
+    | setupThree     |
+    | positions      |
+
+
+# Created at 2023-11-27T16:45:46.985
+Unexpected IOException with stream:   [36mAnd [0m[36mUser sending the keys in Dialog Content[0m             [90m# StepDefinitions._05_DatatableSteps.userSendingTheKeysInDialogContent(io.cucumber.datatable.DataTable)[0m
+    | nameSearch | Emrah |
+
+
+# Created at 2023-11-27T16:45:46.986
+Unexpected IOException with stream:   [36mAnd [0m[36mClick on the element in Dialog Content[0m              [90m# StepDefinitions._05_DatatableSteps.clickOnTheElementInDialogContent(io.cucumber.datatable.DataTable)[0m
+    | searchButton |
+    | editButton   |
+
+
+# Created at 2023-11-27T16:45:46.987
+Unexpected IOException with stream:   [36mAnd [0m[36mUser sending the keys in Dialog Content[0m             [90m# StepDefinitions._05_DatatableSteps.userSendingTheKeysInDialogContent(io.cucumber.datatable.DataTable)[0m
+    | nameInput | Emrah1   |
+    | shortName | test1234 |
+
+
+# Created at 2023-11-27T16:45:46.987
+Unexpected IOException with stream:   [36mAnd [0m[36mClick on the element in Dialog Content[0m              [90m# StepDefinitions._05_DatatableSteps.clickOnTheElementInDialogContent(io.cucumber.datatable.DataTable)[0m
+    | saveButton |
+
+
+# Created at 2023-11-27T16:45:46.988
+Unexpected IOException with stream:   [36mThen [0m[36mSuccess message should be displayed[0m                [90m# StepDefinitions.messageAssert.successMessageShouldBeDisplayed()[0m
+
+
+# Created at 2023-11-27T16:45:46.988
+Unexpected IOException with stream: Senaryo Bitti
+
+
+# Created at 2023-11-27T16:45:46.988
+Unexpected IOException with stream: scenario sonucu=FAILED
+
+
+# Created at 2023-11-27T16:45:46.989
+Unexpected IOException with stream: scenario isFailed ?=true
+
+
+# Created at 2023-11-27T16:45:47.651
+Unexpected IOException with stream: [main] ERROR io.github.bonigarcia.wdm.online.HttpClient - Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_119
+
+
+# Created at 2023-11-27T16:45:47.651
+Unexpected IOException with stream: [main] WARN io.github.bonigarcia.wdm.versions.VersionDetector - Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_119 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_119)
+
+
+# Created at 2023-11-27T16:45:47.896
+Unexpected IOException with stream: [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\fatih\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+
+
+# Created at 2023-11-27T16:45:47.929
+Unexpected IOException with stream: C
+
+# Created at 2023-11-27T16:45:47.930
+Unexpected IOException with stream: h
+
+# Created at 2023-11-27T16:45:47.930
+Unexpected IOException with stream: r
+
+# Created at 2023-11-27T16:45:47.930
+Unexpected IOException with stream: o
+
+# Created at 2023-11-27T16:45:47.931
+Unexpected IOException with stream: m
+
+# Created at 2023-11-27T16:45:47.931
+Unexpected IOException with stream: e
+
+# Created at 2023-11-27T16:45:47.931
+Unexpected IOException with stream: D
+
+# Created at 2023-11-27T16:45:47.931
+Unexpected IOException with stream: r
+
+# Created at 2023-11-27T16:45:47.932
+Unexpected IOException with stream: i
+
+# Created at 2023-11-27T16:45:47.932
+Unexpected IOException with stream: v
+
+# Created at 2023-11-27T16:45:47.932
+Unexpected IOException with stream: e
+
+# Created at 2023-11-27T16:45:47.933
+Unexpected IOException with stream: r
+
+# Created at 2023-11-27T16:45:47.933
+Unexpected IOException with stream:  
+
+# Created at 2023-11-27T16:45:47.933
+Unexpected IOException with stream: w
+
+# Created at 2023-11-27T16:45:47.933
+Unexpected IOException with stream: a
+
+# Created at 2023-11-27T16:45:47.934
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:45:47.934
+Unexpected IOException with stream:  
+
+# Created at 2023-11-27T16:45:47.934
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:45:47.934
+Unexpected IOException with stream: t
+
+# Created at 2023-11-27T16:45:47.935
+Unexpected IOException with stream: a
+
+# Created at 2023-11-27T16:45:47.935
+Unexpected IOException with stream: r
+
+# Created at 2023-11-27T16:45:47.935
+Unexpected IOException with stream: t
+
+# Created at 2023-11-27T16:45:47.935
+Unexpected IOException with stream: e
+
+# Created at 2023-11-27T16:45:47.936
+Unexpected IOException with stream: d
+
+# Created at 2023-11-27T16:45:47.936
+Unexpected IOException with stream:  
+
+# Created at 2023-11-27T16:45:47.936
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:45:47.937
+Unexpected IOException with stream: u
+
+# Created at 2023-11-27T16:45:47.937
+Unexpected IOException with stream: c
+
+# Created at 2023-11-27T16:45:47.937
+Unexpected IOException with stream: c
+
+# Created at 2023-11-27T16:45:47.938
+Unexpected IOException with stream: e
+
+# Created at 2023-11-27T16:45:47.938
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:45:47.938
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:45:47.938
+Unexpected IOException with stream: f
+
+# Created at 2023-11-27T16:45:47.939
+Unexpected IOException with stream: u
+
+# Created at 2023-11-27T16:45:47.939
+Unexpected IOException with stream: l
+
+# Created at 2023-11-27T16:45:47.939
+Unexpected IOException with stream: l
+
+# Created at 2023-11-27T16:45:47.939
+Unexpected IOException with stream: y
+
+# Created at 2023-11-27T16:45:47.940
+Unexpected IOException with stream: .
+
+# Created at 2023-11-27T16:45:47.940
+Unexpected IOException with stream: 
+
+# Created at 2023-11-27T16:45:47.940
+Unexpected IOException with stream: 
+
+
+# Created at 2023-11-27T16:45:49.582
+Unexpected IOException with stream:       [31morg.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 114
+Current browser version is 119.0.6045.160 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'FATIH', ip: '172.20.10.2', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_392'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}], desiredCapabilities=Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}}]
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:144)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:102)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:67)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:156)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:569)
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:264)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:179)
+	at org.openqa.selenium.chromium.ChromiumDriver.<init>(ChromiumDriver.java:101)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:81)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:49)
+	at Utilities.GWD.getDriver(GWD.java:33)
+	at StepDefinitions.Hooks.after(Hooks.java:40)
+[0m
+
+
+# Created at 2023-11-27T16:45:49.583
+Unexpected IOException: 8,1,Runners.TestRunner_MasterReport,runScenario(Runners.TestRunner_MasterReport),null,Failed to instantiate class StepDefinitions._01_LoginSteps,null,Failed to instantiate class StepDefinitions._01_LoginSteps,TestRunner_MasterReport>AbstractTestNGCucumberTests.runScenario:35 \00BB Cucumber ...,io.cucumber.core.exception.CucumberException: Failed to instantiate class StepDefinitions._01_LoginSteps\000ACaused by: java.lang.reflect.InvocationTargetException\000ACaused by: org.openqa.selenium.SessionNotCreatedException: \000ACould not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 114\000ACurrent browser version is 119.0.6045.160 with binary path C:\005CProgram Files\005CGoogle\005CChrome\005CApplication\005Cchrome.exe\000ABuild info: version: '4.3.0'\002C revision: 'a4995e2c09*'\000ASystem info: host: 'FATIH'\002C ip: '172.20.10.2'\002C os.name: 'Windows 11'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_392'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACommand: [null\002C newSession {capabilities=[Capabilities {browserName: chrome\002C goog:chromeOptions: {args: []\002C extensions: []}}]\002C desiredCapabilities=Capabilities {browserName: chrome\002C goog:chromeOptions: {args: []\002C extensions: []}}}]\000A
+
+
+# Created at 2023-11-27T16:45:49.584
+Unexpected IOException: 5,1,Runners.TestRunner_MasterReport,runScenario(Runners.TestRunner_MasterReport),cucumber,null,null
+
+
+# Created at 2023-11-27T16:45:49.588
+Unexpected IOException with stream: 
+Scenario: Delete Exist Position                           [90m# src/test/java/FeatureFiles/_02_Positions.feature:45[0m
+
+
+# Created at 2023-11-27T16:45:49.588
+Unexpected IOException with stream: Senaryo ba?lad?
+
+
+# Created at 2023-11-27T16:45:50.182
+Unexpected IOException with stream: [main] ERROR io.github.bonigarcia.wdm.online.HttpClient - Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_119
+
+
+# Created at 2023-11-27T16:45:50.182
+Unexpected IOException with stream: [main] WARN io.github.bonigarcia.wdm.versions.VersionDetector - Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_119 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_119)
+
+
+# Created at 2023-11-27T16:45:50.433
+Unexpected IOException with stream: [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\fatih\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+
+
+# Created at 2023-11-27T16:45:50.467
+Unexpected IOException with stream: C
+
+# Created at 2023-11-27T16:45:50.467
+Unexpected IOException with stream: h
+
+# Created at 2023-11-27T16:45:50.468
+Unexpected IOException with stream: r
+
+# Created at 2023-11-27T16:45:50.468
+Unexpected IOException with stream: o
+
+# Created at 2023-11-27T16:45:50.468
+Unexpected IOException with stream: m
+
+# Created at 2023-11-27T16:45:50.468
+Unexpected IOException with stream: e
+
+# Created at 2023-11-27T16:45:50.468
+Unexpected IOException with stream: D
+
+# Created at 2023-11-27T16:45:50.470
+Unexpected IOException with stream: r
+
+# Created at 2023-11-27T16:45:50.470
+Unexpected IOException with stream: i
+
+# Created at 2023-11-27T16:45:50.470
+Unexpected IOException with stream: v
+
+# Created at 2023-11-27T16:45:50.470
+Unexpected IOException with stream: e
+
+# Created at 2023-11-27T16:45:50.471
+Unexpected IOException with stream: r
+
+# Created at 2023-11-27T16:45:50.471
+Unexpected IOException with stream:  
+
+# Created at 2023-11-27T16:45:50.471
+Unexpected IOException with stream: w
+
+# Created at 2023-11-27T16:45:50.471
+Unexpected IOException with stream: a
+
+# Created at 2023-11-27T16:45:50.472
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:45:50.472
+Unexpected IOException with stream:  
+
+# Created at 2023-11-27T16:45:50.472
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:45:50.472
+Unexpected IOException with stream: t
+
+# Created at 2023-11-27T16:45:50.473
+Unexpected IOException with stream: a
+
+# Created at 2023-11-27T16:45:50.473
+Unexpected IOException with stream: r
+
+# Created at 2023-11-27T16:45:50.473
+Unexpected IOException with stream: t
+
+# Created at 2023-11-27T16:45:50.474
+Unexpected IOException with stream: e
+
+# Created at 2023-11-27T16:45:50.474
+Unexpected IOException with stream: d
+
+# Created at 2023-11-27T16:45:50.474
+Unexpected IOException with stream:  
+
+# Created at 2023-11-27T16:45:50.474
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:45:50.475
+Unexpected IOException with stream: u
+
+# Created at 2023-11-27T16:45:50.475
+Unexpected IOException with stream: c
+
+# Created at 2023-11-27T16:45:50.475
+Unexpected IOException with stream: c
+
+# Created at 2023-11-27T16:45:50.475
+Unexpected IOException with stream: e
+
+# Created at 2023-11-27T16:45:50.476
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:45:50.476
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:45:50.476
+Unexpected IOException with stream: f
+
+# Created at 2023-11-27T16:45:50.476
+Unexpected IOException with stream: u
+
+# Created at 2023-11-27T16:45:50.477
+Unexpected IOException with stream: l
+
+# Created at 2023-11-27T16:45:50.477
+Unexpected IOException with stream: l
+
+# Created at 2023-11-27T16:45:50.477
+Unexpected IOException with stream: y
+
+# Created at 2023-11-27T16:45:50.478
+Unexpected IOException with stream: .
+
+# Created at 2023-11-27T16:45:50.478
+Unexpected IOException with stream: 
+
+# Created at 2023-11-27T16:45:50.478
+Unexpected IOException with stream: 
+
+
+# Created at 2023-11-27T16:45:52.045
+Unexpected IOException with stream:   [31mGiven [0m[31mNavigate to basqar[0m                                [90m# StepDefinitions._01_LoginSteps.navigateToBasqar()[0m
+      [31mio.cucumber.core.exception.CucumberException: Failed to instantiate class StepDefinitions._01_LoginSteps
+	at io.cucumber.core.backend.DefaultObjectFactory.cacheNewInstance(DefaultObjectFactory.java:67)
+	at io.cucumber.core.backend.DefaultObjectFactory.getInstance(DefaultObjectFactory.java:45)
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47)
+	at io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29)
+	at io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66)
+	at io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:63)
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10)
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:85)
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:57)
+	at io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:51)
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:84)
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:75)
+	at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:132)
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:129)
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23)
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:129)
+	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:129)
+	at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:135)
+	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.executeSingleClass(TestNGDirectoryTestSuite.java:112)
+	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.execute(TestNGDirectoryTestSuite.java:99)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:146)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:384)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:345)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
+Caused by: java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at io.cucumber.core.backend.DefaultObjectFactory.cacheNewInstance(DefaultObjectFactory.java:53)
+	... 46 more
+Caused by: org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 114
+Current browser version is 119.0.6045.160 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'FATIH', ip: '172.20.10.2', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_392'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}], desiredCapabilities=Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}}]
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:144)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:102)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:67)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:156)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:569)
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:264)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:179)
+	at org.openqa.selenium.chromium.ChromiumDriver.<init>(ChromiumDriver.java:101)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:81)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:49)
+	at Utilities.GWD.getDriver(GWD.java:33)
+	at Pages.DialogContent.<init>(DialogContent.java:11)
+	at StepDefinitions._01_LoginSteps.<init>(_01_LoginSteps.java:10)
+	... 51 more
+[0m
+
+
+# Created at 2023-11-27T16:45:52.046
+Unexpected IOException with stream:   [36mWhen [0m[36mEnter username and password and click login button[0m [90m# StepDefinitions._01_LoginSteps.enterUsernameAndPasswordAndClickLoginButton()[0m
+
+
+# Created at 2023-11-27T16:45:52.047
+Unexpected IOException with stream:   [36mThen [0m[36mUser should login successfully[0m                     [90m# StepDefinitions._01_LoginSteps.userShouldLoginSuccessfully()[0m
+
+
+# Created at 2023-11-27T16:45:52.047
+Unexpected IOException with stream:   [36mAnd [0m[36mClick on the element in the Left Nav[0m                [90m# StepDefinitions._05_DatatableSteps.clickOnTheElementInTheLeftNav(io.cucumber.datatable.DataTable)[0m
+    | humanResources |
+    | setupThree     |
+    | positions      |
+
+
+# Created at 2023-11-27T16:45:52.047
+Unexpected IOException with stream:   [36mAnd [0m[36mUser sending the keys in Dialog Content[0m             [90m# StepDefinitions._05_DatatableSteps.userSendingTheKeysInDialogContent(io.cucumber.datatable.DataTable)[0m
+    | nameSearch | Emrah1 |
+
+
+# Created at 2023-11-27T16:45:52.048
+Unexpected IOException with stream:   [36mAnd [0m[36mClick on the element in Dialog Content[0m              [90m# StepDefinitions._05_DatatableSteps.clickOnTheElementInDialogContent(io.cucumber.datatable.DataTable)[0m
+    | searchButton       |
+    | deleteButton       |
+    | deleteDialogButton |
+
+
+# Created at 2023-11-27T16:45:52.048
+Unexpected IOException with stream:   [36mThen [0m[36mSuccess message should be displayed[0m                [90m# StepDefinitions.messageAssert.successMessageShouldBeDisplayed()[0m
+
+
+# Created at 2023-11-27T16:45:52.048
+Unexpected IOException with stream: Senaryo Bitti
+
+
+# Created at 2023-11-27T16:45:52.048
+Unexpected IOException with stream: scenario sonucu=FAILED
+
+
+# Created at 2023-11-27T16:45:52.050
+Unexpected IOException with stream: scenario isFailed ?=true
+
+
+# Created at 2023-11-27T16:45:52.721
+Unexpected IOException with stream: [main] ERROR io.github.bonigarcia.wdm.online.HttpClient - Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_119
+
+
+# Created at 2023-11-27T16:45:52.721
+Unexpected IOException with stream: [main] WARN io.github.bonigarcia.wdm.versions.VersionDetector - Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_119 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_119)
+
+
+# Created at 2023-11-27T16:45:52.974
+Unexpected IOException with stream: [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\fatih\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+
+
+# Created at 2023-11-27T16:45:53.008
+Unexpected IOException with stream: C
+
+# Created at 2023-11-27T16:45:53.009
+Unexpected IOException with stream: h
+
+# Created at 2023-11-27T16:45:53.009
+Unexpected IOException with stream: r
+
+# Created at 2023-11-27T16:45:53.009
+Unexpected IOException with stream: o
+
+# Created at 2023-11-27T16:45:53.009
+Unexpected IOException with stream: m
+
+# Created at 2023-11-27T16:45:53.010
+Unexpected IOException with stream: e
+
+# Created at 2023-11-27T16:45:53.010
+Unexpected IOException with stream: D
+
+# Created at 2023-11-27T16:45:53.010
+Unexpected IOException with stream: r
+
+# Created at 2023-11-27T16:45:53.010
+Unexpected IOException with stream: i
+
+# Created at 2023-11-27T16:45:53.011
+Unexpected IOException with stream: v
+
+# Created at 2023-11-27T16:45:53.011
+Unexpected IOException with stream: e
+
+# Created at 2023-11-27T16:45:53.011
+Unexpected IOException with stream: r
+
+# Created at 2023-11-27T16:45:53.011
+Unexpected IOException with stream:  
+
+# Created at 2023-11-27T16:45:53.012
+Unexpected IOException with stream: w
+
+# Created at 2023-11-27T16:45:53.012
+Unexpected IOException with stream: a
+
+# Created at 2023-11-27T16:45:53.012
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:45:53.012
+Unexpected IOException with stream:  
+
+# Created at 2023-11-27T16:45:53.013
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:45:53.013
+Unexpected IOException with stream: t
+
+# Created at 2023-11-27T16:45:53.013
+Unexpected IOException with stream: a
+
+# Created at 2023-11-27T16:45:53.013
+Unexpected IOException with stream: r
+
+# Created at 2023-11-27T16:45:53.014
+Unexpected IOException with stream: t
+
+# Created at 2023-11-27T16:45:53.014
+Unexpected IOException with stream: e
+
+# Created at 2023-11-27T16:45:53.014
+Unexpected IOException with stream: d
+
+# Created at 2023-11-27T16:45:53.014
+Unexpected IOException with stream:  
+
+# Created at 2023-11-27T16:45:53.015
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:45:53.015
+Unexpected IOException with stream: u
+
+# Created at 2023-11-27T16:45:53.015
+Unexpected IOException with stream: c
+
+# Created at 2023-11-27T16:45:53.015
+Unexpected IOException with stream: c
+
+# Created at 2023-11-27T16:45:53.016
+Unexpected IOException with stream: e
+
+# Created at 2023-11-27T16:45:53.016
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:45:53.016
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:45:53.016
+Unexpected IOException with stream: f
+
+# Created at 2023-11-27T16:45:53.017
+Unexpected IOException with stream: u
+
+# Created at 2023-11-27T16:45:53.017
+Unexpected IOException with stream: l
+
+# Created at 2023-11-27T16:45:53.017
+Unexpected IOException with stream: l
+
+# Created at 2023-11-27T16:45:53.017
+Unexpected IOException with stream: y
+
+# Created at 2023-11-27T16:45:53.018
+Unexpected IOException with stream: .
+
+# Created at 2023-11-27T16:45:53.018
+Unexpected IOException with stream: 
+
+# Created at 2023-11-27T16:45:53.018
+Unexpected IOException with stream: 
+
+
+# Created at 2023-11-27T16:45:54.675
+Unexpected IOException with stream:       [31morg.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 114
+Current browser version is 119.0.6045.160 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'FATIH', ip: '172.20.10.2', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_392'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}], desiredCapabilities=Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}}]
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:144)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:102)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:67)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:156)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:569)
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:264)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:179)
+	at org.openqa.selenium.chromium.ChromiumDriver.<init>(ChromiumDriver.java:101)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:81)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:49)
+	at Utilities.GWD.getDriver(GWD.java:33)
+	at StepDefinitions.Hooks.after(Hooks.java:40)
+[0m
+
+
+# Created at 2023-11-27T16:45:54.676
+Unexpected IOException: 8,1,Runners.TestRunner_MasterReport,runScenario(Runners.TestRunner_MasterReport),null,Failed to instantiate class StepDefinitions._01_LoginSteps,null,Failed to instantiate class StepDefinitions._01_LoginSteps,TestRunner_MasterReport>AbstractTestNGCucumberTests.runScenario:35 \00BB Cucumber ...,io.cucumber.core.exception.CucumberException: Failed to instantiate class StepDefinitions._01_LoginSteps\000ACaused by: java.lang.reflect.InvocationTargetException\000ACaused by: org.openqa.selenium.SessionNotCreatedException: \000ACould not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 114\000ACurrent browser version is 119.0.6045.160 with binary path C:\005CProgram Files\005CGoogle\005CChrome\005CApplication\005Cchrome.exe\000ABuild info: version: '4.3.0'\002C revision: 'a4995e2c09*'\000ASystem info: host: 'FATIH'\002C ip: '172.20.10.2'\002C os.name: 'Windows 11'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_392'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACommand: [null\002C newSession {capabilities=[Capabilities {browserName: chrome\002C goog:chromeOptions: {args: []\002C extensions: []}}]\002C desiredCapabilities=Capabilities {browserName: chrome\002C goog:chromeOptions: {args: []\002C extensions: []}}}]\000A
+
+
+# Created at 2023-11-27T16:45:54.676
+Unexpected IOException: 5,1,Runners.TestRunner_MasterReport,runScenario(Runners.TestRunner_MasterReport),cucumber,null,null
+
+
+# Created at 2023-11-27T16:45:54.680
+Unexpected IOException with stream: 
+Scenario: Add new Attestations                            [90m# src/test/java/FeatureFiles/_03_Attestations.feature:9[0m
+
+
+# Created at 2023-11-27T16:45:54.681
+Unexpected IOException with stream: Senaryo ba?lad?
+
+
+# Created at 2023-11-27T16:45:55.302
+Unexpected IOException with stream: [main] ERROR io.github.bonigarcia.wdm.online.HttpClient - Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_119
+
+
+# Created at 2023-11-27T16:45:55.302
+Unexpected IOException with stream: [main] WARN io.github.bonigarcia.wdm.versions.VersionDetector - Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_119 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_119)
+
+
+# Created at 2023-11-27T16:45:55.648
+Unexpected IOException with stream: [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\fatih\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+
+
+# Created at 2023-11-27T16:45:55.682
+Unexpected IOException with stream: C
+
+# Created at 2023-11-27T16:45:55.682
+Unexpected IOException with stream: h
+
+# Created at 2023-11-27T16:45:55.682
+Unexpected IOException with stream: r
+
+# Created at 2023-11-27T16:45:55.683
+Unexpected IOException with stream: o
+
+# Created at 2023-11-27T16:45:55.683
+Unexpected IOException with stream: m
+
+# Created at 2023-11-27T16:45:55.683
+Unexpected IOException with stream: e
+
+# Created at 2023-11-27T16:45:55.683
+Unexpected IOException with stream: D
+
+# Created at 2023-11-27T16:45:55.684
+Unexpected IOException with stream: r
+
+# Created at 2023-11-27T16:45:55.684
+Unexpected IOException with stream: i
+
+# Created at 2023-11-27T16:45:55.684
+Unexpected IOException with stream: v
+
+# Created at 2023-11-27T16:45:55.684
+Unexpected IOException with stream: e
+
+# Created at 2023-11-27T16:45:55.684
+Unexpected IOException with stream: r
+
+# Created at 2023-11-27T16:45:55.684
+Unexpected IOException with stream:  
+
+# Created at 2023-11-27T16:45:55.686
+Unexpected IOException with stream: w
+
+# Created at 2023-11-27T16:45:55.686
+Unexpected IOException with stream: a
+
+# Created at 2023-11-27T16:45:55.686
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:45:55.686
+Unexpected IOException with stream:  
+
+# Created at 2023-11-27T16:45:55.687
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:45:55.687
+Unexpected IOException with stream: t
+
+# Created at 2023-11-27T16:45:55.687
+Unexpected IOException with stream: a
+
+# Created at 2023-11-27T16:45:55.687
+Unexpected IOException with stream: r
+
+# Created at 2023-11-27T16:45:55.687
+Unexpected IOException with stream: t
+
+# Created at 2023-11-27T16:45:55.688
+Unexpected IOException with stream: e
+
+# Created at 2023-11-27T16:45:55.688
+Unexpected IOException with stream: d
+
+# Created at 2023-11-27T16:45:55.688
+Unexpected IOException with stream:  
+
+# Created at 2023-11-27T16:45:55.688
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:45:55.689
+Unexpected IOException with stream: u
+
+# Created at 2023-11-27T16:45:55.689
+Unexpected IOException with stream: c
+
+# Created at 2023-11-27T16:45:55.689
+Unexpected IOException with stream: c
+
+# Created at 2023-11-27T16:45:55.689
+Unexpected IOException with stream: e
+
+# Created at 2023-11-27T16:45:55.689
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:45:55.689
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:45:55.690
+Unexpected IOException with stream: f
+
+# Created at 2023-11-27T16:45:55.690
+Unexpected IOException with stream: u
+
+# Created at 2023-11-27T16:45:55.690
+Unexpected IOException with stream: l
+
+# Created at 2023-11-27T16:45:55.690
+Unexpected IOException with stream: l
+
+# Created at 2023-11-27T16:45:55.690
+Unexpected IOException with stream: y
+
+# Created at 2023-11-27T16:45:55.692
+Unexpected IOException with stream: .
+
+# Created at 2023-11-27T16:45:55.692
+Unexpected IOException with stream: 
+
+# Created at 2023-11-27T16:45:55.692
+Unexpected IOException with stream: 
+
+
+# Created at 2023-11-27T16:45:57.338
+Unexpected IOException with stream:   [31mGiven [0m[31mNavigate to basqar[0m                                [90m# StepDefinitions._01_LoginSteps.navigateToBasqar()[0m
+      [31mio.cucumber.core.exception.CucumberException: Failed to instantiate class StepDefinitions._01_LoginSteps
+	at io.cucumber.core.backend.DefaultObjectFactory.cacheNewInstance(DefaultObjectFactory.java:67)
+	at io.cucumber.core.backend.DefaultObjectFactory.getInstance(DefaultObjectFactory.java:45)
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47)
+	at io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29)
+	at io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66)
+	at io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:63)
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10)
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:85)
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:57)
+	at io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:51)
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:84)
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:75)
+	at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:132)
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:129)
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23)
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:129)
+	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:129)
+	at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:135)
+	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.executeSingleClass(TestNGDirectoryTestSuite.java:112)
+	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.execute(TestNGDirectoryTestSuite.java:99)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:146)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:384)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:345)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
+Caused by: java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at io.cucumber.core.backend.DefaultObjectFactory.cacheNewInstance(DefaultObjectFactory.java:53)
+	... 46 more
+Caused by: org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 114
+Current browser version is 119.0.6045.160 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'FATIH', ip: '172.20.10.2', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_392'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}], desiredCapabilities=Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}}]
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:144)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:102)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:67)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:156)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:569)
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:264)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:179)
+	at org.openqa.selenium.chromium.ChromiumDriver.<init>(ChromiumDriver.java:101)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:81)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:49)
+	at Utilities.GWD.getDriver(GWD.java:33)
+	at Pages.DialogContent.<init>(DialogContent.java:11)
+	at StepDefinitions._01_LoginSteps.<init>(_01_LoginSteps.java:10)
+	... 51 more
+[0m
+
+
+# Created at 2023-11-27T16:45:57.339
+Unexpected IOException with stream:   [36mWhen [0m[36mEnter username and password and click login button[0m [90m# StepDefinitions._01_LoginSteps.enterUsernameAndPasswordAndClickLoginButton()[0m
+
+
+# Created at 2023-11-27T16:45:57.339
+Unexpected IOException with stream:   [36mThen [0m[36mUser should login successfully[0m                     [90m# StepDefinitions._01_LoginSteps.userShouldLoginSuccessfully()[0m
+
+
+# Created at 2023-11-27T16:45:57.340
+Unexpected IOException with stream:   [36mAnd [0m[36mClick on the element in the Left Nav[0m                [90m# StepDefinitions._05_DatatableSteps.clickOnTheElementInTheLeftNav(io.cucumber.datatable.DataTable)[0m
+    | humanResources |
+    | setupThree     |
+    | attestations   |
+
+
+# Created at 2023-11-27T16:45:57.340
+Unexpected IOException with stream:   [36mAnd [0m[36mClick on the element in Dialog Content[0m              [90m# StepDefinitions._05_DatatableSteps.clickOnTheElementInDialogContent(io.cucumber.datatable.DataTable)[0m
+    | addButton |
+
+
+# Created at 2023-11-27T16:45:57.340
+Unexpected IOException with stream:   [36mAnd [0m[36mUser sending the keys in Dialog Content[0m             [90m# StepDefinitions._05_DatatableSteps.userSendingTheKeysInDialogContent(io.cucumber.datatable.DataTable)[0m
+    | nameInput | Emrah |
+
+
+# Created at 2023-11-27T16:45:57.341
+Unexpected IOException with stream:   [36mAnd [0m[36mClick on the element in Dialog Content[0m              [90m# StepDefinitions._05_DatatableSteps.clickOnTheElementInDialogContent(io.cucumber.datatable.DataTable)[0m
+    | saveButton |
+
+
+# Created at 2023-11-27T16:45:57.341
+Unexpected IOException with stream:   [36mThen [0m[36mSuccess message should be displayed[0m                [90m# StepDefinitions.messageAssert.successMessageShouldBeDisplayed()[0m
+
+
+# Created at 2023-11-27T16:45:57.341
+Unexpected IOException with stream: Senaryo Bitti
+
+
+# Created at 2023-11-27T16:45:57.341
+Unexpected IOException with stream: scenario sonucu=FAILED
+
+
+# Created at 2023-11-27T16:45:57.343
+Unexpected IOException with stream: scenario isFailed ?=true
+
+
+# Created at 2023-11-27T16:45:58.011
+Unexpected IOException with stream: [main] ERROR io.github.bonigarcia.wdm.online.HttpClient - Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_119
+
+
+# Created at 2023-11-27T16:45:58.011
+Unexpected IOException with stream: [main] WARN io.github.bonigarcia.wdm.versions.VersionDetector - Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_119 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_119)
+
+
+# Created at 2023-11-27T16:45:58.292
+Unexpected IOException with stream: [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\fatih\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+
+
+# Created at 2023-11-27T16:45:58.326
+Unexpected IOException with stream: C
+
+# Created at 2023-11-27T16:45:58.327
+Unexpected IOException with stream: h
+
+# Created at 2023-11-27T16:45:58.327
+Unexpected IOException with stream: r
+
+# Created at 2023-11-27T16:45:58.327
+Unexpected IOException with stream: o
+
+# Created at 2023-11-27T16:45:58.327
+Unexpected IOException with stream: m
+
+# Created at 2023-11-27T16:45:58.327
+Unexpected IOException with stream: e
+
+# Created at 2023-11-27T16:45:58.328
+Unexpected IOException with stream: D
+
+# Created at 2023-11-27T16:45:58.328
+Unexpected IOException with stream: r
+
+# Created at 2023-11-27T16:45:58.328
+Unexpected IOException with stream: i
+
+# Created at 2023-11-27T16:45:58.328
+Unexpected IOException with stream: v
+
+# Created at 2023-11-27T16:45:58.328
+Unexpected IOException with stream: e
+
+# Created at 2023-11-27T16:45:58.329
+Unexpected IOException with stream: r
+
+# Created at 2023-11-27T16:45:58.329
+Unexpected IOException with stream:  
+
+# Created at 2023-11-27T16:45:58.329
+Unexpected IOException with stream: w
+
+# Created at 2023-11-27T16:45:58.329
+Unexpected IOException with stream: a
+
+# Created at 2023-11-27T16:45:58.329
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:45:58.329
+Unexpected IOException with stream:  
+
+# Created at 2023-11-27T16:45:58.331
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:45:58.331
+Unexpected IOException with stream: t
+
+# Created at 2023-11-27T16:45:58.331
+Unexpected IOException with stream: a
+
+# Created at 2023-11-27T16:45:58.331
+Unexpected IOException with stream: r
+
+# Created at 2023-11-27T16:45:58.331
+Unexpected IOException with stream: t
+
+# Created at 2023-11-27T16:45:58.332
+Unexpected IOException with stream: e
+
+# Created at 2023-11-27T16:45:58.332
+Unexpected IOException with stream: d
+
+# Created at 2023-11-27T16:45:58.332
+Unexpected IOException with stream:  
+
+# Created at 2023-11-27T16:45:58.332
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:45:58.333
+Unexpected IOException with stream: u
+
+# Created at 2023-11-27T16:45:58.333
+Unexpected IOException with stream: c
+
+# Created at 2023-11-27T16:45:58.333
+Unexpected IOException with stream: c
+
+# Created at 2023-11-27T16:45:58.333
+Unexpected IOException with stream: e
+
+# Created at 2023-11-27T16:45:58.334
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:45:58.334
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:45:58.334
+Unexpected IOException with stream: f
+
+# Created at 2023-11-27T16:45:58.334
+Unexpected IOException with stream: u
+
+# Created at 2023-11-27T16:45:58.334
+Unexpected IOException with stream: l
+
+# Created at 2023-11-27T16:45:58.335
+Unexpected IOException with stream: l
+
+# Created at 2023-11-27T16:45:58.335
+Unexpected IOException with stream: y
+
+# Created at 2023-11-27T16:45:58.335
+Unexpected IOException with stream: .
+
+# Created at 2023-11-27T16:45:58.335
+Unexpected IOException with stream: 
+
+# Created at 2023-11-27T16:45:58.335
+Unexpected IOException with stream: 
+
+
+# Created at 2023-11-27T16:45:59.968
+Unexpected IOException with stream:       [31morg.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 114
+Current browser version is 119.0.6045.160 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'FATIH', ip: '172.20.10.2', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_392'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}], desiredCapabilities=Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}}]
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:144)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:102)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:67)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:156)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:569)
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:264)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:179)
+	at org.openqa.selenium.chromium.ChromiumDriver.<init>(ChromiumDriver.java:101)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:81)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:49)
+	at Utilities.GWD.getDriver(GWD.java:33)
+	at StepDefinitions.Hooks.after(Hooks.java:40)
+[0m
+
+
+# Created at 2023-11-27T16:45:59.969
+Unexpected IOException: 8,1,Runners.TestRunner_MasterReport,runScenario(Runners.TestRunner_MasterReport),null,Failed to instantiate class StepDefinitions._01_LoginSteps,null,Failed to instantiate class StepDefinitions._01_LoginSteps,TestRunner_MasterReport>AbstractTestNGCucumberTests.runScenario:35 \00BB Cucumber ...,io.cucumber.core.exception.CucumberException: Failed to instantiate class StepDefinitions._01_LoginSteps\000ACaused by: java.lang.reflect.InvocationTargetException\000ACaused by: org.openqa.selenium.SessionNotCreatedException: \000ACould not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 114\000ACurrent browser version is 119.0.6045.160 with binary path C:\005CProgram Files\005CGoogle\005CChrome\005CApplication\005Cchrome.exe\000ABuild info: version: '4.3.0'\002C revision: 'a4995e2c09*'\000ASystem info: host: 'FATIH'\002C ip: '172.20.10.2'\002C os.name: 'Windows 11'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_392'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACommand: [null\002C newSession {capabilities=[Capabilities {browserName: chrome\002C goog:chromeOptions: {args: []\002C extensions: []}}]\002C desiredCapabilities=Capabilities {browserName: chrome\002C goog:chromeOptions: {args: []\002C extensions: []}}}]\000A
+
+
+# Created at 2023-11-27T16:45:59.970
+Unexpected IOException: 5,1,Runners.TestRunner_MasterReport,runScenario(Runners.TestRunner_MasterReport),cucumber,null,null
+
+
+# Created at 2023-11-27T16:45:59.974
+Unexpected IOException with stream: 
+Scenario: Edit Exist Attestation                          [90m# src/test/java/FeatureFiles/_03_Attestations.feature:23[0m
+
+
+# Created at 2023-11-27T16:45:59.974
+Unexpected IOException with stream: Senaryo ba?lad?
+
+
+# Created at 2023-11-27T16:46:00.530
+Unexpected IOException with stream: [main] ERROR io.github.bonigarcia.wdm.online.HttpClient - Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_119
+
+
+# Created at 2023-11-27T16:46:00.530
+Unexpected IOException with stream: [main] WARN io.github.bonigarcia.wdm.versions.VersionDetector - Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_119 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_119)
+
+
+# Created at 2023-11-27T16:46:00.773
+Unexpected IOException with stream: [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\fatih\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+
+
+# Created at 2023-11-27T16:46:00.808
+Unexpected IOException with stream: C
+
+# Created at 2023-11-27T16:46:00.808
+Unexpected IOException with stream: h
+
+# Created at 2023-11-27T16:46:00.808
+Unexpected IOException with stream: r
+
+# Created at 2023-11-27T16:46:00.810
+Unexpected IOException with stream: o
+
+# Created at 2023-11-27T16:46:00.810
+Unexpected IOException with stream: m
+
+# Created at 2023-11-27T16:46:00.810
+Unexpected IOException with stream: e
+
+# Created at 2023-11-27T16:46:00.811
+Unexpected IOException with stream: D
+
+# Created at 2023-11-27T16:46:00.811
+Unexpected IOException with stream: r
+
+# Created at 2023-11-27T16:46:00.811
+Unexpected IOException with stream: i
+
+# Created at 2023-11-27T16:46:00.811
+Unexpected IOException with stream: v
+
+# Created at 2023-11-27T16:46:00.812
+Unexpected IOException with stream: e
+
+# Created at 2023-11-27T16:46:00.812
+Unexpected IOException with stream: r
+
+# Created at 2023-11-27T16:46:00.812
+Unexpected IOException with stream:  
+
+# Created at 2023-11-27T16:46:00.812
+Unexpected IOException with stream: w
+
+# Created at 2023-11-27T16:46:00.812
+Unexpected IOException with stream: a
+
+# Created at 2023-11-27T16:46:00.813
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:46:00.813
+Unexpected IOException with stream:  
+
+# Created at 2023-11-27T16:46:00.813
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:46:00.813
+Unexpected IOException with stream: t
+
+# Created at 2023-11-27T16:46:00.814
+Unexpected IOException with stream: a
+
+# Created at 2023-11-27T16:46:00.814
+Unexpected IOException with stream: r
+
+# Created at 2023-11-27T16:46:00.814
+Unexpected IOException with stream: t
+
+# Created at 2023-11-27T16:46:00.814
+Unexpected IOException with stream: e
+
+# Created at 2023-11-27T16:46:00.815
+Unexpected IOException with stream: d
+
+# Created at 2023-11-27T16:46:00.815
+Unexpected IOException with stream:  
+
+# Created at 2023-11-27T16:46:00.815
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:46:00.815
+Unexpected IOException with stream: u
+
+# Created at 2023-11-27T16:46:00.816
+Unexpected IOException with stream: c
+
+# Created at 2023-11-27T16:46:00.816
+Unexpected IOException with stream: c
+
+# Created at 2023-11-27T16:46:00.816
+Unexpected IOException with stream: e
+
+# Created at 2023-11-27T16:46:00.816
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:46:00.817
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:46:00.817
+Unexpected IOException with stream: f
+
+# Created at 2023-11-27T16:46:00.817
+Unexpected IOException with stream: u
+
+# Created at 2023-11-27T16:46:00.817
+Unexpected IOException with stream: l
+
+# Created at 2023-11-27T16:46:00.818
+Unexpected IOException with stream: l
+
+# Created at 2023-11-27T16:46:00.818
+Unexpected IOException with stream: y
+
+# Created at 2023-11-27T16:46:00.818
+Unexpected IOException with stream: .
+
+# Created at 2023-11-27T16:46:00.818
+Unexpected IOException with stream: 
+
+# Created at 2023-11-27T16:46:00.819
+Unexpected IOException with stream: 
+
+
+# Created at 2023-11-27T16:46:02.457
+Unexpected IOException with stream:   [31mGiven [0m[31mNavigate to basqar[0m                                [90m# StepDefinitions._01_LoginSteps.navigateToBasqar()[0m
+      [31mio.cucumber.core.exception.CucumberException: Failed to instantiate class StepDefinitions._01_LoginSteps
+	at io.cucumber.core.backend.DefaultObjectFactory.cacheNewInstance(DefaultObjectFactory.java:67)
+	at io.cucumber.core.backend.DefaultObjectFactory.getInstance(DefaultObjectFactory.java:45)
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47)
+	at io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29)
+	at io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66)
+	at io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:63)
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10)
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:85)
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:57)
+	at io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:51)
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:84)
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:75)
+	at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:132)
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:129)
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23)
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:129)
+	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:129)
+	at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:135)
+	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.executeSingleClass(TestNGDirectoryTestSuite.java:112)
+	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.execute(TestNGDirectoryTestSuite.java:99)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:146)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:384)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:345)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
+Caused by: java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at io.cucumber.core.backend.DefaultObjectFactory.cacheNewInstance(DefaultObjectFactory.java:53)
+	... 46 more
+Caused by: org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 114
+Current browser version is 119.0.6045.160 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'FATIH', ip: '172.20.10.2', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_392'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}], desiredCapabilities=Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}}]
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:144)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:102)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:67)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:156)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:569)
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:264)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:179)
+	at org.openqa.selenium.chromium.ChromiumDriver.<init>(ChromiumDriver.java:101)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:81)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:49)
+	at Utilities.GWD.getDriver(GWD.java:33)
+	at Pages.DialogContent.<init>(DialogContent.java:11)
+	at StepDefinitions._01_LoginSteps.<init>(_01_LoginSteps.java:10)
+	... 51 more
+[0m
+
+
+# Created at 2023-11-27T16:46:02.457
+Unexpected IOException with stream:   [36mWhen [0m[36mEnter username and password and click login button[0m [90m# StepDefinitions._01_LoginSteps.enterUsernameAndPasswordAndClickLoginButton()[0m
+
+
+# Created at 2023-11-27T16:46:02.458
+Unexpected IOException with stream:   [36mThen [0m[36mUser should login successfully[0m                     [90m# StepDefinitions._01_LoginSteps.userShouldLoginSuccessfully()[0m
+
+
+# Created at 2023-11-27T16:46:02.459
+Unexpected IOException with stream:   [36mAnd [0m[36mClick on the element in the Left Nav[0m                [90m# StepDefinitions._05_DatatableSteps.clickOnTheElementInTheLeftNav(io.cucumber.datatable.DataTable)[0m
+    | humanResources |
+    | setupThree     |
+    | attestations   |
+
+
+# Created at 2023-11-27T16:46:02.459
+Unexpected IOException with stream:   [36mAnd [0m[36mUser sending the keys in Dialog Content[0m             [90m# StepDefinitions._05_DatatableSteps.userSendingTheKeysInDialogContent(io.cucumber.datatable.DataTable)[0m
+    | nameSearch | Emrah |
+
+
+# Created at 2023-11-27T16:46:02.460
+Unexpected IOException with stream:   [36mAnd [0m[36mClick on the element in Dialog Content[0m              [90m# StepDefinitions._05_DatatableSteps.clickOnTheElementInDialogContent(io.cucumber.datatable.DataTable)[0m
+    | searchButton |
+    | editButton   |
+
+
+# Created at 2023-11-27T16:46:02.460
+Unexpected IOException with stream:   [36mAnd [0m[36mUser sending the keys in Dialog Content[0m             [90m# StepDefinitions._05_DatatableSteps.userSendingTheKeysInDialogContent(io.cucumber.datatable.DataTable)[0m
+    | nameInput | Emrah1 |
+
+
+# Created at 2023-11-27T16:46:02.460
+Unexpected IOException with stream:   [36mAnd [0m[36mClick on the element in Dialog Content[0m              [90m# StepDefinitions._05_DatatableSteps.clickOnTheElementInDialogContent(io.cucumber.datatable.DataTable)[0m
+    | saveButton |
+
+
+# Created at 2023-11-27T16:46:02.461
+Unexpected IOException with stream:   [36mThen [0m[36mSuccess message should be displayed[0m                [90m# StepDefinitions.messageAssert.successMessageShouldBeDisplayed()[0m
+
+
+# Created at 2023-11-27T16:46:02.461
+Unexpected IOException with stream: Senaryo Bitti
+
+
+# Created at 2023-11-27T16:46:02.461
+Unexpected IOException with stream: scenario sonucu=FAILED
+
+
+# Created at 2023-11-27T16:46:02.462
+Unexpected IOException with stream: scenario isFailed ?=true
+
+
+# Created at 2023-11-27T16:46:03.042
+Unexpected IOException with stream: [main] ERROR io.github.bonigarcia.wdm.online.HttpClient - Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_119
+
+
+# Created at 2023-11-27T16:46:03.043
+Unexpected IOException with stream: [main] WARN io.github.bonigarcia.wdm.versions.VersionDetector - Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_119 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_119)
+
+
+# Created at 2023-11-27T16:46:03.274
+Unexpected IOException with stream: [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\fatih\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+
+
+# Created at 2023-11-27T16:46:03.308
+Unexpected IOException with stream: C
+
+# Created at 2023-11-27T16:46:03.309
+Unexpected IOException with stream: h
+
+# Created at 2023-11-27T16:46:03.309
+Unexpected IOException with stream: r
+
+# Created at 2023-11-27T16:46:03.309
+Unexpected IOException with stream: o
+
+# Created at 2023-11-27T16:46:03.309
+Unexpected IOException with stream: m
+
+# Created at 2023-11-27T16:46:03.310
+Unexpected IOException with stream: e
+
+# Created at 2023-11-27T16:46:03.310
+Unexpected IOException with stream: D
+
+# Created at 2023-11-27T16:46:03.310
+Unexpected IOException with stream: r
+
+# Created at 2023-11-27T16:46:03.310
+Unexpected IOException with stream: i
+
+# Created at 2023-11-27T16:46:03.311
+Unexpected IOException with stream: v
+
+# Created at 2023-11-27T16:46:03.311
+Unexpected IOException with stream: e
+
+# Created at 2023-11-27T16:46:03.311
+Unexpected IOException with stream: r
+
+# Created at 2023-11-27T16:46:03.311
+Unexpected IOException with stream:  
+
+# Created at 2023-11-27T16:46:03.312
+Unexpected IOException with stream: w
+
+# Created at 2023-11-27T16:46:03.312
+Unexpected IOException with stream: a
+
+# Created at 2023-11-27T16:46:03.312
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:46:03.312
+Unexpected IOException with stream:  
+
+# Created at 2023-11-27T16:46:03.313
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:46:03.313
+Unexpected IOException with stream: t
+
+# Created at 2023-11-27T16:46:03.313
+Unexpected IOException with stream: a
+
+# Created at 2023-11-27T16:46:03.313
+Unexpected IOException with stream: r
+
+# Created at 2023-11-27T16:46:03.314
+Unexpected IOException with stream: t
+
+# Created at 2023-11-27T16:46:03.314
+Unexpected IOException with stream: e
+
+# Created at 2023-11-27T16:46:03.314
+Unexpected IOException with stream: d
+
+# Created at 2023-11-27T16:46:03.314
+Unexpected IOException with stream:  
+
+# Created at 2023-11-27T16:46:03.314
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:46:03.315
+Unexpected IOException with stream: u
+
+# Created at 2023-11-27T16:46:03.315
+Unexpected IOException with stream: c
+
+# Created at 2023-11-27T16:46:03.315
+Unexpected IOException with stream: c
+
+# Created at 2023-11-27T16:46:03.315
+Unexpected IOException with stream: e
+
+# Created at 2023-11-27T16:46:03.316
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:46:03.316
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:46:03.316
+Unexpected IOException with stream: f
+
+# Created at 2023-11-27T16:46:03.316
+Unexpected IOException with stream: u
+
+# Created at 2023-11-27T16:46:03.317
+Unexpected IOException with stream: l
+
+# Created at 2023-11-27T16:46:03.317
+Unexpected IOException with stream: l
+
+# Created at 2023-11-27T16:46:03.317
+Unexpected IOException with stream: y
+
+# Created at 2023-11-27T16:46:03.317
+Unexpected IOException with stream: .
+
+# Created at 2023-11-27T16:46:03.318
+Unexpected IOException with stream: 
+
+# Created at 2023-11-27T16:46:03.318
+Unexpected IOException with stream: 
+
+
+# Created at 2023-11-27T16:46:04.937
+Unexpected IOException with stream:       [31morg.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 114
+Current browser version is 119.0.6045.160 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'FATIH', ip: '172.20.10.2', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_392'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}], desiredCapabilities=Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}}]
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:144)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:102)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:67)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:156)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:569)
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:264)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:179)
+	at org.openqa.selenium.chromium.ChromiumDriver.<init>(ChromiumDriver.java:101)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:81)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:49)
+	at Utilities.GWD.getDriver(GWD.java:33)
+	at StepDefinitions.Hooks.after(Hooks.java:40)
+[0m
+
+
+# Created at 2023-11-27T16:46:04.938
+Unexpected IOException: 8,1,Runners.TestRunner_MasterReport,runScenario(Runners.TestRunner_MasterReport),null,Failed to instantiate class StepDefinitions._01_LoginSteps,null,Failed to instantiate class StepDefinitions._01_LoginSteps,TestRunner_MasterReport>AbstractTestNGCucumberTests.runScenario:35 \00BB Cucumber ...,io.cucumber.core.exception.CucumberException: Failed to instantiate class StepDefinitions._01_LoginSteps\000ACaused by: java.lang.reflect.InvocationTargetException\000ACaused by: org.openqa.selenium.SessionNotCreatedException: \000ACould not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 114\000ACurrent browser version is 119.0.6045.160 with binary path C:\005CProgram Files\005CGoogle\005CChrome\005CApplication\005Cchrome.exe\000ABuild info: version: '4.3.0'\002C revision: 'a4995e2c09*'\000ASystem info: host: 'FATIH'\002C ip: '172.20.10.2'\002C os.name: 'Windows 11'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_392'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACommand: [null\002C newSession {capabilities=[Capabilities {browserName: chrome\002C goog:chromeOptions: {args: []\002C extensions: []}}]\002C desiredCapabilities=Capabilities {browserName: chrome\002C goog:chromeOptions: {args: []\002C extensions: []}}}]\000A
+
+
+# Created at 2023-11-27T16:46:04.939
+Unexpected IOException: 5,1,Runners.TestRunner_MasterReport,runScenario(Runners.TestRunner_MasterReport),cucumber,null,null
+
+
+# Created at 2023-11-27T16:46:04.942
+Unexpected IOException with stream: 
+Scenario: Delete Exist Attestation                        [90m# src/test/java/FeatureFiles/_03_Attestations.feature:40[0m
+
+
+# Created at 2023-11-27T16:46:04.943
+Unexpected IOException with stream: Senaryo ba?lad?
+
+
+# Created at 2023-11-27T16:46:05.546
+Unexpected IOException with stream: [main] ERROR io.github.bonigarcia.wdm.online.HttpClient - Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_119
+
+
+# Created at 2023-11-27T16:46:05.546
+Unexpected IOException with stream: [main] WARN io.github.bonigarcia.wdm.versions.VersionDetector - Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_119 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_119)
+
+
+# Created at 2023-11-27T16:46:05.845
+Unexpected IOException with stream: [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\fatih\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+
+
+# Created at 2023-11-27T16:46:05.878
+Unexpected IOException with stream: C
+
+# Created at 2023-11-27T16:46:05.879
+Unexpected IOException with stream: h
+
+# Created at 2023-11-27T16:46:05.879
+Unexpected IOException with stream: r
+
+# Created at 2023-11-27T16:46:05.879
+Unexpected IOException with stream: o
+
+# Created at 2023-11-27T16:46:05.879
+Unexpected IOException with stream: m
+
+# Created at 2023-11-27T16:46:05.880
+Unexpected IOException with stream: e
+
+# Created at 2023-11-27T16:46:05.880
+Unexpected IOException with stream: D
+
+# Created at 2023-11-27T16:46:05.880
+Unexpected IOException with stream: r
+
+# Created at 2023-11-27T16:46:05.880
+Unexpected IOException with stream: i
+
+# Created at 2023-11-27T16:46:05.881
+Unexpected IOException with stream: v
+
+# Created at 2023-11-27T16:46:05.881
+Unexpected IOException with stream: e
+
+# Created at 2023-11-27T16:46:05.882
+Unexpected IOException with stream: r
+
+# Created at 2023-11-27T16:46:05.882
+Unexpected IOException with stream:  
+
+# Created at 2023-11-27T16:46:05.882
+Unexpected IOException with stream: w
+
+# Created at 2023-11-27T16:46:05.882
+Unexpected IOException with stream: a
+
+# Created at 2023-11-27T16:46:05.883
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:46:05.883
+Unexpected IOException with stream:  
+
+# Created at 2023-11-27T16:46:05.883
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:46:05.883
+Unexpected IOException with stream: t
+
+# Created at 2023-11-27T16:46:05.884
+Unexpected IOException with stream: a
+
+# Created at 2023-11-27T16:46:05.884
+Unexpected IOException with stream: r
+
+# Created at 2023-11-27T16:46:05.884
+Unexpected IOException with stream: t
+
+# Created at 2023-11-27T16:46:05.884
+Unexpected IOException with stream: e
+
+# Created at 2023-11-27T16:46:05.885
+Unexpected IOException with stream: d
+
+# Created at 2023-11-27T16:46:05.885
+Unexpected IOException with stream:  
+
+# Created at 2023-11-27T16:46:05.885
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:46:05.885
+Unexpected IOException with stream: u
+
+# Created at 2023-11-27T16:46:05.886
+Unexpected IOException with stream: c
+
+# Created at 2023-11-27T16:46:05.886
+Unexpected IOException with stream: c
+
+# Created at 2023-11-27T16:46:05.886
+Unexpected IOException with stream: e
+
+# Created at 2023-11-27T16:46:05.886
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:46:05.887
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:46:05.887
+Unexpected IOException with stream: f
+
+# Created at 2023-11-27T16:46:05.887
+Unexpected IOException with stream: u
+
+# Created at 2023-11-27T16:46:05.887
+Unexpected IOException with stream: l
+
+# Created at 2023-11-27T16:46:05.888
+Unexpected IOException with stream: l
+
+# Created at 2023-11-27T16:46:05.888
+Unexpected IOException with stream: y
+
+# Created at 2023-11-27T16:46:05.888
+Unexpected IOException with stream: .
+
+# Created at 2023-11-27T16:46:05.888
+Unexpected IOException with stream: 
+
+# Created at 2023-11-27T16:46:05.889
+Unexpected IOException with stream: 
+
+
+# Created at 2023-11-27T16:46:07.543
+Unexpected IOException with stream:   [31mGiven [0m[31mNavigate to basqar[0m                                [90m# StepDefinitions._01_LoginSteps.navigateToBasqar()[0m
+      [31mio.cucumber.core.exception.CucumberException: Failed to instantiate class StepDefinitions._01_LoginSteps
+	at io.cucumber.core.backend.DefaultObjectFactory.cacheNewInstance(DefaultObjectFactory.java:67)
+	at io.cucumber.core.backend.DefaultObjectFactory.getInstance(DefaultObjectFactory.java:45)
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47)
+	at io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29)
+	at io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66)
+	at io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:63)
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10)
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:85)
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:57)
+	at io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:51)
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:84)
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:75)
+	at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:132)
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:129)
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23)
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:129)
+	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:129)
+	at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:135)
+	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.executeSingleClass(TestNGDirectoryTestSuite.java:112)
+	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.execute(TestNGDirectoryTestSuite.java:99)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:146)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:384)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:345)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
+Caused by: java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at io.cucumber.core.backend.DefaultObjectFactory.cacheNewInstance(DefaultObjectFactory.java:53)
+	... 46 more
+Caused by: org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 114
+Current browser version is 119.0.6045.160 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'FATIH', ip: '172.20.10.2', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_392'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}], desiredCapabilities=Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}}]
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:144)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:102)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:67)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:156)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:569)
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:264)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:179)
+	at org.openqa.selenium.chromium.ChromiumDriver.<init>(ChromiumDriver.java:101)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:81)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:49)
+	at Utilities.GWD.getDriver(GWD.java:33)
+	at Pages.DialogContent.<init>(DialogContent.java:11)
+	at StepDefinitions._01_LoginSteps.<init>(_01_LoginSteps.java:10)
+	... 51 more
+[0m
+
+
+# Created at 2023-11-27T16:46:07.544
+Unexpected IOException with stream:   [36mWhen [0m[36mEnter username and password and click login button[0m [90m# StepDefinitions._01_LoginSteps.enterUsernameAndPasswordAndClickLoginButton()[0m
+
+
+# Created at 2023-11-27T16:46:07.545
+Unexpected IOException with stream:   [36mThen [0m[36mUser should login successfully[0m                     [90m# StepDefinitions._01_LoginSteps.userShouldLoginSuccessfully()[0m
+
+
+# Created at 2023-11-27T16:46:07.545
+Unexpected IOException with stream:   [36mAnd [0m[36mClick on the element in the Left Nav[0m                [90m# StepDefinitions._05_DatatableSteps.clickOnTheElementInTheLeftNav(io.cucumber.datatable.DataTable)[0m
+    | humanResources |
+    | setupThree     |
+    | attestations   |
+
+
+# Created at 2023-11-27T16:46:07.545
+Unexpected IOException with stream:   [36mAnd [0m[36mUser sending the keys in Dialog Content[0m             [90m# StepDefinitions._05_DatatableSteps.userSendingTheKeysInDialogContent(io.cucumber.datatable.DataTable)[0m
+    | nameSearch | Emrah1 |
+
+
+# Created at 2023-11-27T16:46:07.546
+Unexpected IOException with stream:   [36mAnd [0m[36mClick on the element in Dialog Content[0m              [90m# StepDefinitions._05_DatatableSteps.clickOnTheElementInDialogContent(io.cucumber.datatable.DataTable)[0m
+    | searchButton       |
+    | deleteButton       |
+    | deleteDialogButton |
+
+
+# Created at 2023-11-27T16:46:07.546
+Unexpected IOException with stream:   [36mThen [0m[36mSuccess message should be displayed[0m                [90m# StepDefinitions.messageAssert.successMessageShouldBeDisplayed()[0m
+
+
+# Created at 2023-11-27T16:46:07.547
+Unexpected IOException with stream: Senaryo Bitti
+
+
+# Created at 2023-11-27T16:46:07.547
+Unexpected IOException with stream: scenario sonucu=FAILED
+
+
+# Created at 2023-11-27T16:46:07.547
+Unexpected IOException with stream: scenario isFailed ?=true
+
+
+# Created at 2023-11-27T16:46:08.221
+Unexpected IOException with stream: [main] ERROR io.github.bonigarcia.wdm.online.HttpClient - Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_119
+
+
+# Created at 2023-11-27T16:46:08.221
+Unexpected IOException with stream: [main] WARN io.github.bonigarcia.wdm.versions.VersionDetector - Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_119 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_119)
+
+
+# Created at 2023-11-27T16:46:08.475
+Unexpected IOException with stream: [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\fatih\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+
+
+# Created at 2023-11-27T16:46:08.513
+Unexpected IOException with stream: C
+
+# Created at 2023-11-27T16:46:08.513
+Unexpected IOException with stream: h
+
+# Created at 2023-11-27T16:46:08.513
+Unexpected IOException with stream: r
+
+# Created at 2023-11-27T16:46:08.514
+Unexpected IOException with stream: o
+
+# Created at 2023-11-27T16:46:08.514
+Unexpected IOException with stream: m
+
+# Created at 2023-11-27T16:46:08.514
+Unexpected IOException with stream: e
+
+# Created at 2023-11-27T16:46:08.514
+Unexpected IOException with stream: D
+
+# Created at 2023-11-27T16:46:08.514
+Unexpected IOException with stream: r
+
+# Created at 2023-11-27T16:46:08.515
+Unexpected IOException with stream: i
+
+# Created at 2023-11-27T16:46:08.515
+Unexpected IOException with stream: v
+
+# Created at 2023-11-27T16:46:08.515
+Unexpected IOException with stream: e
+
+# Created at 2023-11-27T16:46:08.516
+Unexpected IOException with stream: r
+
+# Created at 2023-11-27T16:46:08.516
+Unexpected IOException with stream:  
+
+# Created at 2023-11-27T16:46:08.516
+Unexpected IOException with stream: w
+
+# Created at 2023-11-27T16:46:08.516
+Unexpected IOException with stream: a
+
+# Created at 2023-11-27T16:46:08.517
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:46:08.517
+Unexpected IOException with stream:  
+
+# Created at 2023-11-27T16:46:08.517
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:46:08.517
+Unexpected IOException with stream: t
+
+# Created at 2023-11-27T16:46:08.518
+Unexpected IOException with stream: a
+
+# Created at 2023-11-27T16:46:08.518
+Unexpected IOException with stream: r
+
+# Created at 2023-11-27T16:46:08.518
+Unexpected IOException with stream: t
+
+# Created at 2023-11-27T16:46:08.518
+Unexpected IOException with stream: e
+
+# Created at 2023-11-27T16:46:08.519
+Unexpected IOException with stream: d
+
+# Created at 2023-11-27T16:46:08.519
+Unexpected IOException with stream:  
+
+# Created at 2023-11-27T16:46:08.519
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:46:08.520
+Unexpected IOException with stream: u
+
+# Created at 2023-11-27T16:46:08.520
+Unexpected IOException with stream: c
+
+# Created at 2023-11-27T16:46:08.520
+Unexpected IOException with stream: c
+
+# Created at 2023-11-27T16:46:08.520
+Unexpected IOException with stream: e
+
+# Created at 2023-11-27T16:46:08.521
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:46:08.521
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:46:08.521
+Unexpected IOException with stream: f
+
+# Created at 2023-11-27T16:46:08.521
+Unexpected IOException with stream: u
+
+# Created at 2023-11-27T16:46:08.522
+Unexpected IOException with stream: l
+
+# Created at 2023-11-27T16:46:08.522
+Unexpected IOException with stream: l
+
+# Created at 2023-11-27T16:46:08.522
+Unexpected IOException with stream: y
+
+# Created at 2023-11-27T16:46:08.523
+Unexpected IOException with stream: .
+
+# Created at 2023-11-27T16:46:08.523
+Unexpected IOException with stream: 
+
+# Created at 2023-11-27T16:46:08.523
+Unexpected IOException with stream: 
+
+
+# Created at 2023-11-27T16:46:10.178
+Unexpected IOException with stream:       [31morg.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 114
+Current browser version is 119.0.6045.160 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'FATIH', ip: '172.20.10.2', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_392'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}], desiredCapabilities=Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}}]
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:144)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:102)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:67)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:156)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:569)
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:264)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:179)
+	at org.openqa.selenium.chromium.ChromiumDriver.<init>(ChromiumDriver.java:101)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:81)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:49)
+	at Utilities.GWD.getDriver(GWD.java:33)
+	at StepDefinitions.Hooks.after(Hooks.java:40)
+[0m
+
+
+# Created at 2023-11-27T16:46:10.180
+Unexpected IOException: 8,1,Runners.TestRunner_MasterReport,runScenario(Runners.TestRunner_MasterReport),null,Failed to instantiate class StepDefinitions._01_LoginSteps,null,Failed to instantiate class StepDefinitions._01_LoginSteps,TestRunner_MasterReport>AbstractTestNGCucumberTests.runScenario:35 \00BB Cucumber ...,io.cucumber.core.exception.CucumberException: Failed to instantiate class StepDefinitions._01_LoginSteps\000ACaused by: java.lang.reflect.InvocationTargetException\000ACaused by: org.openqa.selenium.SessionNotCreatedException: \000ACould not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 114\000ACurrent browser version is 119.0.6045.160 with binary path C:\005CProgram Files\005CGoogle\005CChrome\005CApplication\005Cchrome.exe\000ABuild info: version: '4.3.0'\002C revision: 'a4995e2c09*'\000ASystem info: host: 'FATIH'\002C ip: '172.20.10.2'\002C os.name: 'Windows 11'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_392'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACommand: [null\002C newSession {capabilities=[Capabilities {browserName: chrome\002C goog:chromeOptions: {args: []\002C extensions: []}}]\002C desiredCapabilities=Capabilities {browserName: chrome\002C goog:chromeOptions: {args: []\002C extensions: []}}}]\000A
+
+
+# Created at 2023-11-27T16:46:10.180
+Unexpected IOException: 5,1,Runners.TestRunner_MasterReport,runScenario(Runners.TestRunner_MasterReport),cucumber,null,null
+
+
+# Created at 2023-11-27T16:46:10.185
+Unexpected IOException with stream: 
+Scenario: Add New Document Type                           [90m# src/test/java/FeatureFiles/_04_DocumentTypes.feature:9[0m
+
+
+# Created at 2023-11-27T16:46:10.185
+Unexpected IOException with stream: Senaryo ba?lad?
+
+
+# Created at 2023-11-27T16:46:10.898
+Unexpected IOException with stream: [main] ERROR io.github.bonigarcia.wdm.online.HttpClient - Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_119
+
+
+# Created at 2023-11-27T16:46:10.898
+Unexpected IOException with stream: [main] WARN io.github.bonigarcia.wdm.versions.VersionDetector - Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_119 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_119)
+
+
+# Created at 2023-11-27T16:46:11.126
+Unexpected IOException with stream: [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\fatih\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+
+
+# Created at 2023-11-27T16:46:11.162
+Unexpected IOException with stream: C
+
+# Created at 2023-11-27T16:46:11.162
+Unexpected IOException with stream: h
+
+# Created at 2023-11-27T16:46:11.162
+Unexpected IOException with stream: r
+
+# Created at 2023-11-27T16:46:11.164
+Unexpected IOException with stream: o
+
+# Created at 2023-11-27T16:46:11.164
+Unexpected IOException with stream: m
+
+# Created at 2023-11-27T16:46:11.164
+Unexpected IOException with stream: e
+
+# Created at 2023-11-27T16:46:11.164
+Unexpected IOException with stream: D
+
+# Created at 2023-11-27T16:46:11.164
+Unexpected IOException with stream: r
+
+# Created at 2023-11-27T16:46:11.165
+Unexpected IOException with stream: i
+
+# Created at 2023-11-27T16:46:11.165
+Unexpected IOException with stream: v
+
+# Created at 2023-11-27T16:46:11.165
+Unexpected IOException with stream: e
+
+# Created at 2023-11-27T16:46:11.165
+Unexpected IOException with stream: r
+
+# Created at 2023-11-27T16:46:11.166
+Unexpected IOException with stream:  
+
+# Created at 2023-11-27T16:46:11.166
+Unexpected IOException with stream: w
+
+# Created at 2023-11-27T16:46:11.166
+Unexpected IOException with stream: a
+
+# Created at 2023-11-27T16:46:11.166
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:46:11.166
+Unexpected IOException with stream:  
+
+# Created at 2023-11-27T16:46:11.167
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:46:11.167
+Unexpected IOException with stream: t
+
+# Created at 2023-11-27T16:46:11.167
+Unexpected IOException with stream: a
+
+# Created at 2023-11-27T16:46:11.167
+Unexpected IOException with stream: r
+
+# Created at 2023-11-27T16:46:11.167
+Unexpected IOException with stream: t
+
+# Created at 2023-11-27T16:46:11.168
+Unexpected IOException with stream: e
+
+# Created at 2023-11-27T16:46:11.168
+Unexpected IOException with stream: d
+
+# Created at 2023-11-27T16:46:11.168
+Unexpected IOException with stream:  
+
+# Created at 2023-11-27T16:46:11.168
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:46:11.170
+Unexpected IOException with stream: u
+
+# Created at 2023-11-27T16:46:11.170
+Unexpected IOException with stream: c
+
+# Created at 2023-11-27T16:46:11.170
+Unexpected IOException with stream: c
+
+# Created at 2023-11-27T16:46:11.170
+Unexpected IOException with stream: e
+
+# Created at 2023-11-27T16:46:11.171
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:46:11.171
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:46:11.171
+Unexpected IOException with stream: f
+
+# Created at 2023-11-27T16:46:11.171
+Unexpected IOException with stream: u
+
+# Created at 2023-11-27T16:46:11.171
+Unexpected IOException with stream: l
+
+# Created at 2023-11-27T16:46:11.171
+Unexpected IOException with stream: l
+
+# Created at 2023-11-27T16:46:11.172
+Unexpected IOException with stream: y
+
+# Created at 2023-11-27T16:46:11.172
+Unexpected IOException with stream: .
+
+# Created at 2023-11-27T16:46:11.172
+Unexpected IOException with stream: 
+
+# Created at 2023-11-27T16:46:11.172
+Unexpected IOException with stream: 
+
+
+# Created at 2023-11-27T16:46:12.801
+Unexpected IOException with stream:   [31mGiven [0m[31mNavigate to basqar[0m                                [90m# StepDefinitions._01_LoginSteps.navigateToBasqar()[0m
+      [31mio.cucumber.core.exception.CucumberException: Failed to instantiate class StepDefinitions._01_LoginSteps
+	at io.cucumber.core.backend.DefaultObjectFactory.cacheNewInstance(DefaultObjectFactory.java:67)
+	at io.cucumber.core.backend.DefaultObjectFactory.getInstance(DefaultObjectFactory.java:45)
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47)
+	at io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29)
+	at io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66)
+	at io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:63)
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10)
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:85)
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:57)
+	at io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:51)
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:84)
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:75)
+	at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:132)
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:129)
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23)
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:129)
+	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:129)
+	at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:135)
+	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.executeSingleClass(TestNGDirectoryTestSuite.java:112)
+	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.execute(TestNGDirectoryTestSuite.java:99)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:146)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:384)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:345)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
+Caused by: java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at io.cucumber.core.backend.DefaultObjectFactory.cacheNewInstance(DefaultObjectFactory.java:53)
+	... 46 more
+Caused by: org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 114
+Current browser version is 119.0.6045.160 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'FATIH', ip: '172.20.10.2', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_392'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}], desiredCapabilities=Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}}]
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:144)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:102)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:67)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:156)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:569)
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:264)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:179)
+	at org.openqa.selenium.chromium.ChromiumDriver.<init>(ChromiumDriver.java:101)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:81)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:49)
+	at Utilities.GWD.getDriver(GWD.java:33)
+	at Pages.DialogContent.<init>(DialogContent.java:11)
+	at StepDefinitions._01_LoginSteps.<init>(_01_LoginSteps.java:10)
+	... 51 more
+[0m
+
+
+# Created at 2023-11-27T16:46:12.801
+Unexpected IOException with stream:   [36mWhen [0m[36mEnter username and password and click login button[0m [90m# StepDefinitions._01_LoginSteps.enterUsernameAndPasswordAndClickLoginButton()[0m
+
+
+# Created at 2023-11-27T16:46:12.802
+Unexpected IOException with stream:   [36mThen [0m[36mUser should login successfully[0m                     [90m# StepDefinitions._01_LoginSteps.userShouldLoginSuccessfully()[0m
+
+
+# Created at 2023-11-27T16:46:12.802
+Unexpected IOException with stream:   [36mAnd [0m[36mClick on the element in the Left Nav[0m                [90m# StepDefinitions._05_DatatableSteps.clickOnTheElementInTheLeftNav(io.cucumber.datatable.DataTable)[0m
+    | setupOne      |
+    | parameters    |
+    | documentTypes |
+
+
+# Created at 2023-11-27T16:46:12.802
+Unexpected IOException with stream:   [36mAnd [0m[36mClick on the element in Dialog Content[0m              [90m# StepDefinitions._05_DatatableSteps.clickOnTheElementInDialogContent(io.cucumber.datatable.DataTable)[0m
+    | addButton |
+
+
+# Created at 2023-11-27T16:46:12.803
+Unexpected IOException with stream:   [36mAnd [0m[36mUser sending the keys in Dialog Content[0m             [90m# StepDefinitions._05_DatatableSteps.userSendingTheKeysInDialogContent(io.cucumber.datatable.DataTable)[0m
+    | nameInput | Emrah1 |
+
+
+# Created at 2023-11-27T16:46:12.804
+Unexpected IOException with stream:   [36mAnd [0m[36mClick on the element in Dialog Content[0m              [90m# StepDefinitions._05_DatatableSteps.clickOnTheElementInDialogContent(io.cucumber.datatable.DataTable)[0m
+    | stage      |
+    | employment |
+
+
+# Created at 2023-11-27T16:46:12.804
+Unexpected IOException with stream:   [36mAnd [0m[36mClick Blank Area[0m                                    [90m# StepDefinitions.BlankAreaSteps.clickBlankArea()[0m
+
+
+# Created at 2023-11-27T16:46:12.804
+Unexpected IOException with stream:   [36mAnd [0m[36mClick on the element in Dialog Content[0m              [90m# StepDefinitions._05_DatatableSteps.clickOnTheElementInDialogContent(io.cucumber.datatable.DataTable)[0m
+    | saveButton |
+
+
+# Created at 2023-11-27T16:46:12.805
+Unexpected IOException with stream:   [36mThen [0m[36mSuccess message should be displayed[0m                [90m# StepDefinitions.messageAssert.successMessageShouldBeDisplayed()[0m
+
+
+# Created at 2023-11-27T16:46:12.805
+Unexpected IOException with stream: Senaryo Bitti
+
+
+# Created at 2023-11-27T16:46:12.805
+Unexpected IOException with stream: scenario sonucu=FAILED
+
+
+# Created at 2023-11-27T16:46:12.805
+Unexpected IOException with stream: scenario isFailed ?=true
+
+
+# Created at 2023-11-27T16:46:13.529
+Unexpected IOException with stream: [main] ERROR io.github.bonigarcia.wdm.online.HttpClient - Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_119
+
+
+# Created at 2023-11-27T16:46:13.530
+Unexpected IOException with stream: [main] WARN io.github.bonigarcia.wdm.versions.VersionDetector - Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_119 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_119)
+
+
+# Created at 2023-11-27T16:46:13.799
+Unexpected IOException with stream: [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\fatih\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+
+
+# Created at 2023-11-27T16:46:13.834
+Unexpected IOException with stream: C
+
+# Created at 2023-11-27T16:46:13.834
+Unexpected IOException with stream: h
+
+# Created at 2023-11-27T16:46:13.835
+Unexpected IOException with stream: r
+
+# Created at 2023-11-27T16:46:13.835
+Unexpected IOException with stream: o
+
+# Created at 2023-11-27T16:46:13.835
+Unexpected IOException with stream: m
+
+# Created at 2023-11-27T16:46:13.837
+Unexpected IOException with stream: e
+
+# Created at 2023-11-27T16:46:13.837
+Unexpected IOException with stream: D
+
+# Created at 2023-11-27T16:46:13.837
+Unexpected IOException with stream: r
+
+# Created at 2023-11-27T16:46:13.837
+Unexpected IOException with stream: i
+
+# Created at 2023-11-27T16:46:13.837
+Unexpected IOException with stream: v
+
+# Created at 2023-11-27T16:46:13.838
+Unexpected IOException with stream: e
+
+# Created at 2023-11-27T16:46:13.838
+Unexpected IOException with stream: r
+
+# Created at 2023-11-27T16:46:13.838
+Unexpected IOException with stream:  
+
+# Created at 2023-11-27T16:46:13.838
+Unexpected IOException with stream: w
+
+# Created at 2023-11-27T16:46:13.839
+Unexpected IOException with stream: a
+
+# Created at 2023-11-27T16:46:13.839
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:46:13.839
+Unexpected IOException with stream:  
+
+# Created at 2023-11-27T16:46:13.839
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:46:13.840
+Unexpected IOException with stream: t
+
+# Created at 2023-11-27T16:46:13.840
+Unexpected IOException with stream: a
+
+# Created at 2023-11-27T16:46:13.840
+Unexpected IOException with stream: r
+
+# Created at 2023-11-27T16:46:13.840
+Unexpected IOException with stream: t
+
+# Created at 2023-11-27T16:46:13.840
+Unexpected IOException with stream: e
+
+# Created at 2023-11-27T16:46:13.841
+Unexpected IOException with stream: d
+
+# Created at 2023-11-27T16:46:13.841
+Unexpected IOException with stream:  
+
+# Created at 2023-11-27T16:46:13.841
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:46:13.841
+Unexpected IOException with stream: u
+
+# Created at 2023-11-27T16:46:13.841
+Unexpected IOException with stream: c
+
+# Created at 2023-11-27T16:46:13.842
+Unexpected IOException with stream: c
+
+# Created at 2023-11-27T16:46:13.842
+Unexpected IOException with stream: e
+
+# Created at 2023-11-27T16:46:13.842
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:46:13.842
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:46:13.843
+Unexpected IOException with stream: f
+
+# Created at 2023-11-27T16:46:13.843
+Unexpected IOException with stream: u
+
+# Created at 2023-11-27T16:46:13.843
+Unexpected IOException with stream: l
+
+# Created at 2023-11-27T16:46:13.843
+Unexpected IOException with stream: l
+
+# Created at 2023-11-27T16:46:13.844
+Unexpected IOException with stream: y
+
+# Created at 2023-11-27T16:46:13.844
+Unexpected IOException with stream: .
+
+# Created at 2023-11-27T16:46:13.844
+Unexpected IOException with stream: 
+
+# Created at 2023-11-27T16:46:13.844
+Unexpected IOException with stream: 
+
+
+# Created at 2023-11-27T16:46:15.485
+Unexpected IOException with stream:       [31morg.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 114
+Current browser version is 119.0.6045.160 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'FATIH', ip: '172.20.10.2', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_392'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}], desiredCapabilities=Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}}]
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:144)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:102)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:67)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:156)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:569)
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:264)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:179)
+	at org.openqa.selenium.chromium.ChromiumDriver.<init>(ChromiumDriver.java:101)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:81)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:49)
+	at Utilities.GWD.getDriver(GWD.java:33)
+	at StepDefinitions.Hooks.after(Hooks.java:40)
+[0m
+
+
+# Created at 2023-11-27T16:46:15.486
+Unexpected IOException: 8,1,Runners.TestRunner_MasterReport,runScenario(Runners.TestRunner_MasterReport),null,Failed to instantiate class StepDefinitions._01_LoginSteps,null,Failed to instantiate class StepDefinitions._01_LoginSteps,TestRunner_MasterReport>AbstractTestNGCucumberTests.runScenario:35 \00BB Cucumber ...,io.cucumber.core.exception.CucumberException: Failed to instantiate class StepDefinitions._01_LoginSteps\000ACaused by: java.lang.reflect.InvocationTargetException\000ACaused by: org.openqa.selenium.SessionNotCreatedException: \000ACould not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 114\000ACurrent browser version is 119.0.6045.160 with binary path C:\005CProgram Files\005CGoogle\005CChrome\005CApplication\005Cchrome.exe\000ABuild info: version: '4.3.0'\002C revision: 'a4995e2c09*'\000ASystem info: host: 'FATIH'\002C ip: '172.20.10.2'\002C os.name: 'Windows 11'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_392'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACommand: [null\002C newSession {capabilities=[Capabilities {browserName: chrome\002C goog:chromeOptions: {args: []\002C extensions: []}}]\002C desiredCapabilities=Capabilities {browserName: chrome\002C goog:chromeOptions: {args: []\002C extensions: []}}}]\000A
+
+
+# Created at 2023-11-27T16:46:15.486
+Unexpected IOException: 5,1,Runners.TestRunner_MasterReport,runScenario(Runners.TestRunner_MasterReport),cucumber,null,null
+
+
+# Created at 2023-11-27T16:46:15.491
+Unexpected IOException with stream: 
+Scenario: Edit Exist Document Type                        [90m# src/test/java/FeatureFiles/_04_DocumentTypes.feature:27[0m
+
+
+# Created at 2023-11-27T16:46:15.491
+Unexpected IOException with stream: Senaryo ba?lad?
+
+
+# Created at 2023-11-27T16:46:16.126
+Unexpected IOException with stream: [main] ERROR io.github.bonigarcia.wdm.online.HttpClient - Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_119
+
+
+# Created at 2023-11-27T16:46:16.127
+Unexpected IOException with stream: [main] WARN io.github.bonigarcia.wdm.versions.VersionDetector - Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_119 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_119)
+
+
+# Created at 2023-11-27T16:46:16.392
+Unexpected IOException with stream: [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\fatih\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+
+
+# Created at 2023-11-27T16:46:16.427
+Unexpected IOException with stream: C
+
+# Created at 2023-11-27T16:46:16.427
+Unexpected IOException with stream: h
+
+# Created at 2023-11-27T16:46:16.427
+Unexpected IOException with stream: r
+
+# Created at 2023-11-27T16:46:16.427
+Unexpected IOException with stream: o
+
+# Created at 2023-11-27T16:46:16.428
+Unexpected IOException with stream: m
+
+# Created at 2023-11-27T16:46:16.428
+Unexpected IOException with stream: e
+
+# Created at 2023-11-27T16:46:16.428
+Unexpected IOException with stream: D
+
+# Created at 2023-11-27T16:46:16.428
+Unexpected IOException with stream: r
+
+# Created at 2023-11-27T16:46:16.429
+Unexpected IOException with stream: i
+
+# Created at 2023-11-27T16:46:16.429
+Unexpected IOException with stream: v
+
+# Created at 2023-11-27T16:46:16.429
+Unexpected IOException with stream: e
+
+# Created at 2023-11-27T16:46:16.429
+Unexpected IOException with stream: r
+
+# Created at 2023-11-27T16:46:16.429
+Unexpected IOException with stream:  
+
+# Created at 2023-11-27T16:46:16.430
+Unexpected IOException with stream: w
+
+# Created at 2023-11-27T16:46:16.430
+Unexpected IOException with stream: a
+
+# Created at 2023-11-27T16:46:16.430
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:46:16.430
+Unexpected IOException with stream:  
+
+# Created at 2023-11-27T16:46:16.431
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:46:16.431
+Unexpected IOException with stream: t
+
+# Created at 2023-11-27T16:46:16.431
+Unexpected IOException with stream: a
+
+# Created at 2023-11-27T16:46:16.431
+Unexpected IOException with stream: r
+
+# Created at 2023-11-27T16:46:16.432
+Unexpected IOException with stream: t
+
+# Created at 2023-11-27T16:46:16.432
+Unexpected IOException with stream: e
+
+# Created at 2023-11-27T16:46:16.432
+Unexpected IOException with stream: d
+
+# Created at 2023-11-27T16:46:16.432
+Unexpected IOException with stream:  
+
+# Created at 2023-11-27T16:46:16.433
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:46:16.433
+Unexpected IOException with stream: u
+
+# Created at 2023-11-27T16:46:16.433
+Unexpected IOException with stream: c
+
+# Created at 2023-11-27T16:46:16.433
+Unexpected IOException with stream: c
+
+# Created at 2023-11-27T16:46:16.433
+Unexpected IOException with stream: e
+
+# Created at 2023-11-27T16:46:16.434
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:46:16.434
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:46:16.434
+Unexpected IOException with stream: f
+
+# Created at 2023-11-27T16:46:16.434
+Unexpected IOException with stream: u
+
+# Created at 2023-11-27T16:46:16.435
+Unexpected IOException with stream: l
+
+# Created at 2023-11-27T16:46:16.435
+Unexpected IOException with stream: l
+
+# Created at 2023-11-27T16:46:16.435
+Unexpected IOException with stream: y
+
+# Created at 2023-11-27T16:46:16.435
+Unexpected IOException with stream: .
+
+# Created at 2023-11-27T16:46:16.435
+Unexpected IOException with stream: 
+
+# Created at 2023-11-27T16:46:16.435
+Unexpected IOException with stream: 
+
+
+# Created at 2023-11-27T16:46:18.049
+Unexpected IOException with stream:   [31mGiven [0m[31mNavigate to basqar[0m                                [90m# StepDefinitions._01_LoginSteps.navigateToBasqar()[0m
+      [31mio.cucumber.core.exception.CucumberException: Failed to instantiate class StepDefinitions._01_LoginSteps
+	at io.cucumber.core.backend.DefaultObjectFactory.cacheNewInstance(DefaultObjectFactory.java:67)
+	at io.cucumber.core.backend.DefaultObjectFactory.getInstance(DefaultObjectFactory.java:45)
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47)
+	at io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29)
+	at io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66)
+	at io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:63)
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10)
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:85)
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:57)
+	at io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:51)
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:84)
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:75)
+	at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:132)
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:129)
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23)
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:129)
+	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:129)
+	at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:135)
+	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.executeSingleClass(TestNGDirectoryTestSuite.java:112)
+	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.execute(TestNGDirectoryTestSuite.java:99)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:146)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:384)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:345)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
+Caused by: java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at io.cucumber.core.backend.DefaultObjectFactory.cacheNewInstance(DefaultObjectFactory.java:53)
+	... 46 more
+Caused by: org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 114
+Current browser version is 119.0.6045.160 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'FATIH', ip: '172.20.10.2', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_392'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}], desiredCapabilities=Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}}]
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:144)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:102)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:67)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:156)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:569)
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:264)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:179)
+	at org.openqa.selenium.chromium.ChromiumDriver.<init>(ChromiumDriver.java:101)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:81)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:49)
+	at Utilities.GWD.getDriver(GWD.java:33)
+	at Pages.DialogContent.<init>(DialogContent.java:11)
+	at StepDefinitions._01_LoginSteps.<init>(_01_LoginSteps.java:10)
+	... 51 more
+[0m
+
+
+# Created at 2023-11-27T16:46:18.050
+Unexpected IOException with stream:   [36mWhen [0m[36mEnter username and password and click login button[0m [90m# StepDefinitions._01_LoginSteps.enterUsernameAndPasswordAndClickLoginButton()[0m
+
+
+# Created at 2023-11-27T16:46:18.050
+Unexpected IOException with stream:   [36mThen [0m[36mUser should login successfully[0m                     [90m# StepDefinitions._01_LoginSteps.userShouldLoginSuccessfully()[0m
+
+
+# Created at 2023-11-27T16:46:18.051
+Unexpected IOException with stream:   [36mAnd [0m[36mClick on the element in the Left Nav[0m                [90m# StepDefinitions._05_DatatableSteps.clickOnTheElementInTheLeftNav(io.cucumber.datatable.DataTable)[0m
+    | setupOne      |
+    | parameters    |
+    | documentTypes |
+
+
+# Created at 2023-11-27T16:46:18.051
+Unexpected IOException with stream:   [36mAnd [0m[36mUser sending the keys in Dialog Content[0m             [90m# StepDefinitions._05_DatatableSteps.userSendingTheKeysInDialogContent(io.cucumber.datatable.DataTable)[0m
+    | nameSearch | Emrah |
+
+
+# Created at 2023-11-27T16:46:18.051
+Unexpected IOException with stream:   [36mAnd [0m[36mClick on the element in Dialog Content[0m              [90m# StepDefinitions._05_DatatableSteps.clickOnTheElementInDialogContent(io.cucumber.datatable.DataTable)[0m
+    | searchButton |
+    | editButton   |
+
+
+# Created at 2023-11-27T16:46:18.052
+Unexpected IOException with stream:   [36mAnd [0m[36mUser sending the keys in Dialog Content[0m             [90m# StepDefinitions._05_DatatableSteps.userSendingTheKeysInDialogContent(io.cucumber.datatable.DataTable)[0m
+    | nameInput | Emrah1 |
+
+
+# Created at 2023-11-27T16:46:18.052
+Unexpected IOException with stream:   [36mAnd [0m[36mClick on the element in Dialog Content[0m              [90m# StepDefinitions._05_DatatableSteps.clickOnTheElementInDialogContent(io.cucumber.datatable.DataTable)[0m
+    | saveButton |
+
+
+# Created at 2023-11-27T16:46:18.053
+Unexpected IOException with stream:   [36mThen [0m[36mSuccess message should be displayed[0m                [90m# StepDefinitions.messageAssert.successMessageShouldBeDisplayed()[0m
+
+
+# Created at 2023-11-27T16:46:18.053
+Unexpected IOException with stream: Senaryo Bitti
+
+
+# Created at 2023-11-27T16:46:18.053
+Unexpected IOException with stream: scenario sonucu=FAILED
+
+
+# Created at 2023-11-27T16:46:18.054
+Unexpected IOException with stream: scenario isFailed ?=true
+
+
+# Created at 2023-11-27T16:46:18.727
+Unexpected IOException with stream: [main] ERROR io.github.bonigarcia.wdm.online.HttpClient - Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_119
+
+
+# Created at 2023-11-27T16:46:18.727
+Unexpected IOException with stream: [main] WARN io.github.bonigarcia.wdm.versions.VersionDetector - Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_119 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_119)
+
+
+# Created at 2023-11-27T16:46:18.986
+Unexpected IOException with stream: [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\fatih\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+
+
+# Created at 2023-11-27T16:46:19.020
+Unexpected IOException with stream: C
+
+# Created at 2023-11-27T16:46:19.020
+Unexpected IOException with stream: h
+
+# Created at 2023-11-27T16:46:19.020
+Unexpected IOException with stream: r
+
+# Created at 2023-11-27T16:46:19.022
+Unexpected IOException with stream: o
+
+# Created at 2023-11-27T16:46:19.022
+Unexpected IOException with stream: m
+
+# Created at 2023-11-27T16:46:19.022
+Unexpected IOException with stream: e
+
+# Created at 2023-11-27T16:46:19.022
+Unexpected IOException with stream: D
+
+# Created at 2023-11-27T16:46:19.023
+Unexpected IOException with stream: r
+
+# Created at 2023-11-27T16:46:19.023
+Unexpected IOException with stream: i
+
+# Created at 2023-11-27T16:46:19.023
+Unexpected IOException with stream: v
+
+# Created at 2023-11-27T16:46:19.023
+Unexpected IOException with stream: e
+
+# Created at 2023-11-27T16:46:19.024
+Unexpected IOException with stream: r
+
+# Created at 2023-11-27T16:46:19.024
+Unexpected IOException with stream:  
+
+# Created at 2023-11-27T16:46:19.024
+Unexpected IOException with stream: w
+
+# Created at 2023-11-27T16:46:19.024
+Unexpected IOException with stream: a
+
+# Created at 2023-11-27T16:46:19.025
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:46:19.025
+Unexpected IOException with stream:  
+
+# Created at 2023-11-27T16:46:19.025
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:46:19.025
+Unexpected IOException with stream: t
+
+# Created at 2023-11-27T16:46:19.025
+Unexpected IOException with stream: a
+
+# Created at 2023-11-27T16:46:19.026
+Unexpected IOException with stream: r
+
+# Created at 2023-11-27T16:46:19.026
+Unexpected IOException with stream: t
+
+# Created at 2023-11-27T16:46:19.026
+Unexpected IOException with stream: e
+
+# Created at 2023-11-27T16:46:19.027
+Unexpected IOException with stream: d
+
+# Created at 2023-11-27T16:46:19.027
+Unexpected IOException with stream:  
+
+# Created at 2023-11-27T16:46:19.027
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:46:19.027
+Unexpected IOException with stream: u
+
+# Created at 2023-11-27T16:46:19.028
+Unexpected IOException with stream: c
+
+# Created at 2023-11-27T16:46:19.028
+Unexpected IOException with stream: c
+
+# Created at 2023-11-27T16:46:19.028
+Unexpected IOException with stream: e
+
+# Created at 2023-11-27T16:46:19.028
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:46:19.029
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:46:19.029
+Unexpected IOException with stream: f
+
+# Created at 2023-11-27T16:46:19.029
+Unexpected IOException with stream: u
+
+# Created at 2023-11-27T16:46:19.029
+Unexpected IOException with stream: l
+
+# Created at 2023-11-27T16:46:19.030
+Unexpected IOException with stream: l
+
+# Created at 2023-11-27T16:46:19.030
+Unexpected IOException with stream: y
+
+# Created at 2023-11-27T16:46:19.030
+Unexpected IOException with stream: .
+
+# Created at 2023-11-27T16:46:19.030
+Unexpected IOException with stream: 
+
+# Created at 2023-11-27T16:46:19.031
+Unexpected IOException with stream: 
+
+
+# Created at 2023-11-27T16:46:20.675
+Unexpected IOException with stream:       [31morg.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 114
+Current browser version is 119.0.6045.160 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'FATIH', ip: '172.20.10.2', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_392'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}], desiredCapabilities=Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}}]
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:144)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:102)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:67)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:156)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:569)
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:264)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:179)
+	at org.openqa.selenium.chromium.ChromiumDriver.<init>(ChromiumDriver.java:101)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:81)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:49)
+	at Utilities.GWD.getDriver(GWD.java:33)
+	at StepDefinitions.Hooks.after(Hooks.java:40)
+[0m
+
+
+# Created at 2023-11-27T16:46:20.676
+Unexpected IOException: 8,1,Runners.TestRunner_MasterReport,runScenario(Runners.TestRunner_MasterReport),null,Failed to instantiate class StepDefinitions._01_LoginSteps,null,Failed to instantiate class StepDefinitions._01_LoginSteps,TestRunner_MasterReport>AbstractTestNGCucumberTests.runScenario:35 \00BB Cucumber ...,io.cucumber.core.exception.CucumberException: Failed to instantiate class StepDefinitions._01_LoginSteps\000ACaused by: java.lang.reflect.InvocationTargetException\000ACaused by: org.openqa.selenium.SessionNotCreatedException: \000ACould not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 114\000ACurrent browser version is 119.0.6045.160 with binary path C:\005CProgram Files\005CGoogle\005CChrome\005CApplication\005Cchrome.exe\000ABuild info: version: '4.3.0'\002C revision: 'a4995e2c09*'\000ASystem info: host: 'FATIH'\002C ip: '172.20.10.2'\002C os.name: 'Windows 11'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_392'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACommand: [null\002C newSession {capabilities=[Capabilities {browserName: chrome\002C goog:chromeOptions: {args: []\002C extensions: []}}]\002C desiredCapabilities=Capabilities {browserName: chrome\002C goog:chromeOptions: {args: []\002C extensions: []}}}]\000A
+
+
+# Created at 2023-11-27T16:46:20.677
+Unexpected IOException: 5,1,Runners.TestRunner_MasterReport,runScenario(Runners.TestRunner_MasterReport),cucumber,null,null
+
+
+# Created at 2023-11-27T16:46:20.680
+Unexpected IOException with stream: 
+Scenario: Delete Exist Document Type                      [90m# src/test/java/FeatureFiles/_04_DocumentTypes.feature:44[0m
+
+
+# Created at 2023-11-27T16:46:20.680
+Unexpected IOException with stream: Senaryo ba?lad?
+
+
+# Created at 2023-11-27T16:46:21.283
+Unexpected IOException with stream: [main] ERROR io.github.bonigarcia.wdm.online.HttpClient - Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_119
+
+
+# Created at 2023-11-27T16:46:21.283
+Unexpected IOException with stream: [main] WARN io.github.bonigarcia.wdm.versions.VersionDetector - Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_119 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_119)
+
+
+# Created at 2023-11-27T16:46:21.554
+Unexpected IOException with stream: [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\fatih\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+
+
+# Created at 2023-11-27T16:46:21.591
+Unexpected IOException with stream: C
+
+# Created at 2023-11-27T16:46:21.591
+Unexpected IOException with stream: h
+
+# Created at 2023-11-27T16:46:21.591
+Unexpected IOException with stream: r
+
+# Created at 2023-11-27T16:46:21.591
+Unexpected IOException with stream: o
+
+# Created at 2023-11-27T16:46:21.591
+Unexpected IOException with stream: m
+
+# Created at 2023-11-27T16:46:21.592
+Unexpected IOException with stream: e
+
+# Created at 2023-11-27T16:46:21.592
+Unexpected IOException with stream: D
+
+# Created at 2023-11-27T16:46:21.592
+Unexpected IOException with stream: r
+
+# Created at 2023-11-27T16:46:21.592
+Unexpected IOException with stream: i
+
+# Created at 2023-11-27T16:46:21.594
+Unexpected IOException with stream: v
+
+# Created at 2023-11-27T16:46:21.594
+Unexpected IOException with stream: e
+
+# Created at 2023-11-27T16:46:21.594
+Unexpected IOException with stream: r
+
+# Created at 2023-11-27T16:46:21.594
+Unexpected IOException with stream:  
+
+# Created at 2023-11-27T16:46:21.595
+Unexpected IOException with stream: w
+
+# Created at 2023-11-27T16:46:21.595
+Unexpected IOException with stream: a
+
+# Created at 2023-11-27T16:46:21.595
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:46:21.595
+Unexpected IOException with stream:  
+
+# Created at 2023-11-27T16:46:21.596
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:46:21.596
+Unexpected IOException with stream: t
+
+# Created at 2023-11-27T16:46:21.596
+Unexpected IOException with stream: a
+
+# Created at 2023-11-27T16:46:21.597
+Unexpected IOException with stream: r
+
+# Created at 2023-11-27T16:46:21.597
+Unexpected IOException with stream: t
+
+# Created at 2023-11-27T16:46:21.597
+Unexpected IOException with stream: e
+
+# Created at 2023-11-27T16:46:21.597
+Unexpected IOException with stream: d
+
+# Created at 2023-11-27T16:46:21.599
+Unexpected IOException with stream:  
+
+# Created at 2023-11-27T16:46:21.599
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:46:21.599
+Unexpected IOException with stream: u
+
+# Created at 2023-11-27T16:46:21.600
+Unexpected IOException with stream: c
+
+# Created at 2023-11-27T16:46:21.600
+Unexpected IOException with stream: c
+
+# Created at 2023-11-27T16:46:21.600
+Unexpected IOException with stream: e
+
+# Created at 2023-11-27T16:46:21.600
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:46:21.600
+Unexpected IOException with stream: s
+
+# Created at 2023-11-27T16:46:21.601
+Unexpected IOException with stream: f
+
+# Created at 2023-11-27T16:46:21.601
+Unexpected IOException with stream: u
+
+# Created at 2023-11-27T16:46:21.601
+Unexpected IOException with stream: l
+
+# Created at 2023-11-27T16:46:21.601
+Unexpected IOException with stream: l
+
+# Created at 2023-11-27T16:46:21.601
+Unexpected IOException with stream: y
+
+# Created at 2023-11-27T16:46:21.602
+Unexpected IOException with stream: .
+
+# Created at 2023-11-27T16:46:21.602
+Unexpected IOException with stream: 
+
+# Created at 2023-11-27T16:46:21.602
+Unexpected IOException with stream: 
+
+
